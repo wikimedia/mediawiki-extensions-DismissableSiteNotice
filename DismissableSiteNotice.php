@@ -17,7 +17,6 @@ function wfDismissableSiteNotice( &$notice ) {
 		return true;
 	}
 
-	wfLoadExtensionMessages( 'DismissableSiteNotice' );
 	$encNotice = Xml::escapeJsString($notice);
 	$encClose = Xml::escapeJsString( wfMsg( 'sitenotice_close' ) );
 	$id = intval( $wgMajorSiteNoticeID ) . "." . intval( wfMsgForContent( 'sitenotice_id' ) );
