@@ -93,6 +93,14 @@ $messages['ast'] = array(
 	'sitenotice-desc' => "Permite a los usuarios zarrar l'anuncia del sitiu",
 );
 
+/** Bashkir (Башҡорт)
+ * @author Assele
+ */
+$messages['ba'] = array(
+	'sitenotice_close' => 'йәшерергә',
+	'sitenotice-desc' => 'Ҡатнашыусыларға сайттың белдереүҙәрен йәшерергә мөмкинлек бирә',
+);
+
 /** Bavarian (Boarisch)
  * @author Mucalexx
  */
