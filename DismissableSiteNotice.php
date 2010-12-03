@@ -23,18 +23,18 @@ function wfDismissableSiteNotice( &$notice ) {
 
 	// No dismissal for anons
 	if ( $wgUser->isAnon() ) {
-		$notice = <<<EOT
-<script type="text/javascript" language="JavaScript">
+		$notice = <<<HTML
+<script type="text/javascript">
 /* <![CDATA[ */
 document.writeln("$encNotice");
 /* ]]> */
 </script>
-EOT;
+HTML;
 		return true;
 	}
 
-	$notice = <<<EOT
-<script type="text/javascript" language="JavaScript">
+	$notice = <<<HTML
+<script type="text/javascript">
 /* <![CDATA[ */
 var cookieName = "dismissSiteNotice=";
 var cookiePos = document.cookie.indexOf(cookieName);
@@ -65,7 +65,7 @@ if (cookieValue != siteNoticeID) {
 }
 /* ]]> */
 </script>
-EOT;
+HTML;
 	// Compact the string a bit
 	/*
 	$notice = strtr( $notice, array(
