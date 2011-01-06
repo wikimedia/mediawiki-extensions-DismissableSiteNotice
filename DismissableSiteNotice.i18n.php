@@ -606,7 +606,7 @@ $messages['lzh'] = array(
  * @author Brest
  */
 $messages['mk'] = array(
-	'sitenotice_close' => 'сокриј',
+	'sitenotice_close' => 'скриј',
 	'sitenotice-desc' => 'Им овозможува корисниците да го затворат известувањето на главната страница',
 );
 
