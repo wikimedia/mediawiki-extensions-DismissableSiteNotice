@@ -179,6 +179,13 @@ $messages['cdo'] = array(
 	'sitenotice_close' => 'cĕk lâi',
 );
 
+/** Chechen (Нохчийн)
+ * @author Sasan700
+ */
+$messages['ce'] = array(
+	'sitenotice_close' => 'къайлайаккха',
+);
+
 /** Crimean Turkish (Latin) (Qırımtatarca (Latin))
  * @author Don Alessandro
  */
