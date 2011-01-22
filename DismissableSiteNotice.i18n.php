@@ -93,7 +93,7 @@ $messages['ast'] = array(
 	'sitenotice-desc' => "Permite a los usuarios zarrar l'anuncia del sitiu",
 );
 
-/** Bashkir (Башҡорт)
+/** Bashkir (Башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -124,7 +124,7 @@ $messages['be'] = array(
 	'sitenotice_close' => 'зняць',
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Red Winged Duck
  */
@@ -844,7 +844,7 @@ $messages['sq'] = array(
 	'sitenotice_close' => 'fshihe',
 );
 
-/** Serbian Cyrillic ekavian (Српски (ћирилица))
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Millosh
  * @author Rancher
  */
@@ -853,7 +853,7 @@ $messages['sr-ec'] = array(
 	'sitenotice-desc' => 'омогући корисницима да искључе обавештење на сајту',
 );
 
-/** Serbian Latin ekavian (Srpski (latinica))
+/** Serbian Latin ekavian (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
