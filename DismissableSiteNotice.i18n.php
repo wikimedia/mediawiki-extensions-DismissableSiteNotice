@@ -319,10 +319,11 @@ $messages['fo'] = array(
 
 /** French (Français)
  * @author IAlex
+ * @author Wyz
  */
 $messages['fr'] = array(
 	'sitenotice_close' => 'cacher',
-	'sitenotice-desc' => 'Permet aux utilisateurs de cacher le sitenotice',
+	'sitenotice-desc' => 'Permet aux utilisateurs de masquer le bandeau d’information',
 );
 
 /** Franco-Provençal (Arpetan)
