@@ -322,7 +322,7 @@ $messages['fo'] = array(
  * @author Wyz
  */
 $messages['fr'] = array(
-	'sitenotice_close' => 'cacher',
+	'sitenotice_close' => 'masquer',
 	'sitenotice-desc' => 'Permet aux utilisateurs de masquer le bandeau d’information',
 );
 
