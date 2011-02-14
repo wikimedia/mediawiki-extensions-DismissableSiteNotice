@@ -840,9 +840,12 @@ $messages['sl'] = array(
 	'sitenotice-desc' => 'Dovoli uporabnikom skriti obvestilo strani',
 );
 
-/** Albanian (Shqip) */
+/** Albanian (Shqip)
+ * @author Olsi
+ */
 $messages['sq'] = array(
 	'sitenotice_close' => 'fshihe',
+	'sitenotice-desc' => 'Lejon përdoruesit për të mbyllur këtë sitenotice',
 );
 
 /** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
