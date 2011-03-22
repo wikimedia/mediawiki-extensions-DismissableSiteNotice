@@ -186,6 +186,13 @@ $messages['ce'] = array(
 	'sitenotice_close' => 'къайлайаккха',
 );
 
+/** Sorani (کوردی)
+ * @author Asoxor
+ */
+$messages['ckb'] = array(
+	'sitenotice_close' => 'لایبە',
+);
+
 /** Crimean Turkish (Latin) (Qırımtatarca (Latin))
  * @author Don Alessandro
  */
