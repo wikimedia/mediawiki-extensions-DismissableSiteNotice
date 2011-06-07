@@ -573,10 +573,12 @@ $messages['ksh'] = array(
 );
 
 /** Latin (Latina)
+ * @author MissPetticoats
  * @author UV
  */
 $messages['la'] = array(
 	'sitenotice_close' => 'celare',
+	'sitenotice-desc' => ' Licet interretiariorum claudere nuntium loci.',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
