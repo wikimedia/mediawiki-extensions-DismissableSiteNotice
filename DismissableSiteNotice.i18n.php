@@ -678,7 +678,7 @@ $messages['nds'] = array(
  */
 $messages['nds-nl'] = array(
 	'sitenotice_close' => 'verbargen',
-	'sitenotice-desc' => 'Geef gebrukers de meugelijkheid um websteetiejigen te verbargen',
+	'sitenotice-desc' => 'Geef gebrukers de meugelikheid um websteetiejigen te verbargen',
 );
 
 /** Nepali (नेपाली) */
