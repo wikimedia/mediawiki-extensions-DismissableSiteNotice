@@ -232,11 +232,12 @@ $messages['da'] = array(
 );
 
 /** German (Deutsch)
+ * @author Kghbln
  * @author Raimond Spekking
  */
 $messages['de'] = array(
 	'sitenotice_close' => 'Schließen',
-	'sitenotice-desc' => 'Erlaubt Benutzern das Schließen der Sitenotice',
+	'sitenotice-desc' => 'Ermöglichte es Benutzern die wikiweiten Benutzernachrichten auszublenden',
 );
 
 /** Zazaki (Zazaki)
