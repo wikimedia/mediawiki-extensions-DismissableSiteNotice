@@ -803,7 +803,7 @@ $messages['rue'] = array(
 	'sitenotice-desc' => 'Доволює хоснователям заперти повідомлїня в заголовю сайту',
 );
 
-/** Yakut (Саха тыла)
+/** Sakha (Саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
