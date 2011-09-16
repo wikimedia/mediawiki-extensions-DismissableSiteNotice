@@ -719,6 +719,13 @@ $messages['oc'] = array(
 	'sitenotice-desc' => 'Permet als utilizaires de tampar lo sitenotice',
 );
 
+/** Oriya (ଓଡ଼ିଆ)
+ * @author Odisha1
+ */
+$messages['or'] = array(
+	'sitenotice_close' => 'ଖାରଜ',
+);
+
 /** Polish (Polski)
  * @author Derbeth
  * @author Sp5uhe
