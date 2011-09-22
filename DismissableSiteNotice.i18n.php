@@ -721,9 +721,11 @@ $messages['oc'] = array(
 
 /** Oriya (ଓଡ଼ିଆ)
  * @author Odisha1
+ * @author Psubhashish
  */
 $messages['or'] = array(
 	'sitenotice_close' => 'ଖାରଜ',
+	'sitenotice-desc' => 'ସଭ୍ୟମାନଙ୍କୁ ସାଇଟ ସୂଚନା ବନ୍ଦକରିବାକୁ ଅନୁମତି ଦେଇଥାଏ',
 );
 
 /** Polish (Polski)
