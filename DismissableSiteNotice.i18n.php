@@ -746,6 +746,14 @@ $messages['pms'] = array(
 	'sitenotice-desc' => "A përmëtt a j'utent ëd saré ël sitenotice",
 );
 
+/** Western Punjabi (پنجابی)
+ * @author Khalid Mahmood
+ */
+$messages['pnb'] = array(
+	'sitenotice_close' => 'مکاؤ',
+	'sitenotice-desc' => 'ورتن والیاں نوں سائیٹنوٹس بند کرن دیو۔',
+);
+
 /** Pashto (پښتو)
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
