@@ -370,10 +370,11 @@ $messages['ga'] = array(
 );
 
 /** Galician (Galego)
+ * @author Toliño
  * @author Xosé
  */
 $messages['gl'] = array(
-	'sitenotice_close' => 'retirar',
+	'sitenotice_close' => 'agochar',
 	'sitenotice-desc' => 'Permite que os usuarios fechen o aviso do sitio',
 );
 
