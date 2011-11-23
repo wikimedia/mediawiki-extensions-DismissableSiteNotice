@@ -193,14 +193,14 @@ $messages['ckb'] = array(
 	'sitenotice_close' => 'لایبە',
 );
 
-/** Crimean Turkish (Latin) (Qırımtatarca (Latin))
+/** Crimean Turkish (Latin script) (‪Qırımtatarca (Latin)‬)
  * @author Don Alessandro
  */
 $messages['crh-latn'] = array(
 	'sitenotice_close' => 'gizle',
 );
 
-/** Crimean Turkish (Cyrillic) (Qırımtatarca (Cyrillic))
+/** Crimean Turkish (Cyrillic script) (‪Къырымтатарджа (Кирилл)‬)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
@@ -411,7 +411,7 @@ $messages['hi'] = array(
 	'sitenotice-desc' => 'सदस्योंको साईटनोटिस हटाने की अनुमति देता हैं',
 );
 
-/** Fiji Hindi (Latin) (Fiji Hindi (Latin))
+/** Fiji Hindi (Latin script) (Fiji Hindi)
  * @author Thakurji
  */
 $messages['hif-latn'] = array(
@@ -538,12 +538,12 @@ $messages['kk-arab'] = array(
 	'sitenotice_close' => 'تاسالاتۋ',
 );
 
-/** Kazakh (Cyrillic) (Қазақша (Cyrillic)) */
+/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬) */
 $messages['kk-cyrl'] = array(
 	'sitenotice_close' => 'тасалату',
 );
 
-/** Kazakh (Latin) (Қазақша (Latin)) */
+/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'sitenotice_close' => 'tasalatw',
 );
@@ -877,7 +877,7 @@ $messages['sq'] = array(
 	'sitenotice-desc' => 'Lejon përdoruesit për të mbyllur këtë sitenotice',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Millosh
  * @author Rancher
  */
@@ -886,7 +886,7 @@ $messages['sr-ec'] = array(
 	'sitenotice-desc' => 'омогући корисницима да искључе обавештење на сајту',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -944,7 +944,7 @@ $messages['tet'] = array(
 	'sitenotice-desc' => 'Uza-na\'in sira bele taka "sitenotice"',
 );
 
-/** Tajik (Cyrillic) (Тоҷикӣ (Cyrillic))
+/** Tajik (Cyrillic script) (Тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -952,7 +952,7 @@ $messages['tg-cyrl'] = array(
 	'sitenotice-desc' => 'Ба корбарон иҷозат медиҳад, ки эълоноти сомонаро пинҳон кунанд',
 );
 
-/** Tajik (Latin) (Тоҷикӣ (Latin))
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1000,7 +1000,7 @@ $messages['ts'] = array(
 	'sitenotice_close' => 'Bakanya',
 );
 
-/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+/** Tatar (Cyrillic script) (Татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
