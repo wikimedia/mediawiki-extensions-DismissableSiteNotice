@@ -375,7 +375,7 @@ $messages['ga'] = array(
  */
 $messages['gl'] = array(
 	'sitenotice_close' => 'agochar',
-	'sitenotice-desc' => 'Permite que os usuarios fechen o aviso do sitio',
+	'sitenotice-desc' => 'Permite que os usuarios pechen o aviso do sitio',
 );
 
 /** Ancient Greek (Ἀρχαία ἑλληνικὴ)
