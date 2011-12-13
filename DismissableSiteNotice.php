@@ -5,7 +5,7 @@ $wgExtensionCredits['other'][] = array(
 	'name' => 'DismissableSiteNotice',
 	'author' => 'Brion Vibber',
 	'descriptionmsg' => 'sitenotice-desc',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:DismissableSiteNotice',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:DismissableSiteNotice',
 );
 
 $wgExtensionMessagesFiles['DismissableSiteNotice'] = dirname(__FILE__) . '/DismissableSiteNotice.i18n.php';
