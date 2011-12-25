@@ -708,7 +708,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Jon Harald Søby
  */
-$messages['no'] = array(
+$messages['nb'] = array(
 	'sitenotice_close' => 'lukk',
 	'sitenotice-desc' => 'Gjør at brukere kan fjerne toppbeskjeden',
 );
