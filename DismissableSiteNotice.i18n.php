@@ -467,6 +467,14 @@ $messages['id'] = array(
 	'sitenotice-desc' => 'Memungkinkan pengguna untuk menutup pengumuman situs',
 );
 
+/** Iloko (Ilokano)
+ * @author Lam-ang
+ */
+$messages['ilo'] = array(
+	'sitenotice_close' => 'pugsayen',
+	'sitenotice-desc' => 'Agpalubos kadagiti agar-aramat ti agirikep ti paammo ti pagsaadan',
+);
+
 /** Ido (Ido)
  * @author Malafaya
  */
@@ -668,6 +676,14 @@ $messages['nan'] = array(
 	'sitenotice_close' => 'Chhú-siau',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Jon Harald Søby
+ */
+$messages['nb'] = array(
+	'sitenotice_close' => 'lukk',
+	'sitenotice-desc' => 'Gjør at brukere kan fjerne toppbeskjeden',
+);
+
 /** Low German (Plattdüütsch)
  * @author Slomox
  */
@@ -703,14 +719,6 @@ $messages['nl'] = array(
 $messages['nn'] = array(
 	'sitenotice_close' => 'lukk',
 	'sitenotice-desc' => 'Gjer at brukarar kan fjerne toppmeldinga',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
-$messages['nb'] = array(
-	'sitenotice_close' => 'lukk',
-	'sitenotice-desc' => 'Gjør at brukere kan fjerne toppbeskjeden',
 );
 
 /** Occitan (Occitan)
