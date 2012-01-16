@@ -432,7 +432,7 @@ $messages['hr'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
-	'sitenotice_close' => 'schować',
+	'sitenotice_close' => 'začinić',
 	'sitenotice-desc' => 'Dowola wužiwarjam pobóčnu powěsć začinić',
 );
 
