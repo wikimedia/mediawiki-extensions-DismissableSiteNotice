@@ -395,6 +395,13 @@ $messages['gsw'] = array(
 	'sitenotice-desc' => 'Erlaubt Benutzer s Schliesse vu dr Sitenotice',
 );
 
+/** Gujarati (ગુજરાતી)
+ * @author Sushant savla
+ */
+$messages['gu'] = array(
+	'sitenotice_close' => 'રદ્દ કરો',
+);
+
 /** Hebrew (עברית)
  * @author Rotem Liss
  */
