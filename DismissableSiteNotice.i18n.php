@@ -400,6 +400,7 @@ $messages['gsw'] = array(
  */
 $messages['gu'] = array(
 	'sitenotice_close' => 'રદ્દ કરો',
+	'sitenotice-desc' => 'સભ્યને સાઈટ નોટીસ બંધ કરવાની રજા આપે છે',
 );
 
 /** Hebrew (עברית)
