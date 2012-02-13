@@ -237,7 +237,7 @@ $messages['da'] = array(
  */
 $messages['de'] = array(
 	'sitenotice_close' => 'Schließen',
-	'sitenotice-desc' => 'Ermöglichte es Benutzern die wikiweiten Benutzernachrichten auszublenden',
+	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen',
 );
 
 /** Zazaki (Zazaki)
