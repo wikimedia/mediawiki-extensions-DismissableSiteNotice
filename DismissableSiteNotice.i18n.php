@@ -232,11 +232,12 @@ $messages['da'] = array(
 );
 
 /** German (Deutsch)
+ * @author Geitost
  * @author Kghbln
  * @author Raimond Spekking
  */
 $messages['de'] = array(
-	'sitenotice_close' => 'Schließen',
+	'sitenotice_close' => 'schließen',
 	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen',
 );
 
