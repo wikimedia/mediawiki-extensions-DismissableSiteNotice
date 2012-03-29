@@ -11,12 +11,14 @@ $wgExtensionCredits['other'][] = array(
 $wgExtensionMessagesFiles['DismissableSiteNotice'] = dirname(__FILE__) . '/DismissableSiteNotice.i18n.php';
 
 function wfDismissableSiteNotice( &$notice ) {
-	global $wgMajorSiteNoticeID, $wgUser;
+	global $wgMajorSiteNoticeID, $wgUser, $wgContLang;
 
 	if ( !$notice ) {
 		return true;
 	}
 
+	$floatSide = $wgContLang->alignEnd();
+	$oppositeFloatSide = $wgContLang->alignStart();
 	$encNotice = Xml::escapeJsString($notice);
 	$encClose = Xml::escapeJsString( wfMsg( 'sitenotice_close' ) );
 	$id = intval( $wgMajorSiteNoticeID ) . "." . intval( wfMsgForContent( 'sitenotice_id' ) );
@@ -38,6 +40,8 @@ HTML;
 /* <![CDATA[ */
 var cookieName = "dismissSiteNotice=";
 var cookiePos = document.cookie.indexOf(cookieName);
+var floatSide = "$floatSide";
+var oppositeFloatSide = "$oppositeFloatSide";
 var siteNoticeID = "$id";
 var siteNoticeValue = "$encNotice";
 var cookieValue = "";
@@ -60,8 +64,12 @@ if (cookieValue != siteNoticeID) {
 		var element = document.getElementById('mw-dismissable-notice');
 		element.parentNode.removeChild(element);
 	}
-	document.writeln('<table width="100%" id="mw-dismissable-notice"><tr><td width="80%">'+siteNoticeValue+'</td>');
-	document.writeln('<td width="20%" align="right">[<a href="javascript:dismissNotice();">'+msgClose+'</a>]</td></tr></table>');
+	document.writeln('<div id="mw-dismissable-notice">'
+			+ '<div style="float: ' + floatSide + ';">[<a href="javascript:dismissNotice();">' + msgClose + '</a>]</div>'
+			+ '<div style="margin-top: 0.5em; margin-bottom: 0.5em; margin-' + floatSide
+			+ ': 20%; margin-' + oppositeFloatSide + ': 5em;" id="localNotice">' + siteNoticeValue + '</div>'
+		+ '</div>'
+	);
 }
 /* ]]> */
 </script>
