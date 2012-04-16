@@ -491,9 +491,12 @@ $messages['io'] = array(
 	'sitenotice_close' => 'celar',
 );
 
-/** Icelandic (Íslenska) */
+/** Icelandic (Íslenska)
+ * @author Snævar
+ */
 $messages['is'] = array(
 	'sitenotice_close' => 'fela',
+	'sitenotice-desc' => 'Leyfir notendum að loka þessari tilkynningu',
 );
 
 /** Italian (Italiano)
