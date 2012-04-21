@@ -509,10 +509,11 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author JtFuruhata
+ * @author Shirayuki
  */
 $messages['ja'] = array(
 	'sitenotice_close' => '非表示',
-	'sitenotice-desc' => 'サイトからのお知らせを利用者が非表示にすることを可能とする',
+	'sitenotice-desc' => 'サイトからのお知らせを利用者が非表示にするのを許可する',
 );
 
 /** Jutish (Jysk)
