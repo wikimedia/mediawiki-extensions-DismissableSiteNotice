@@ -795,9 +795,9 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (Português do Brasil)
+ * @author 555
  * @author Eduardo.mps
  * @author Jesielt
- * @author 555
  */
 $messages['pt-br'] = array(
 	'sitenotice_close' => 'ignorar',
