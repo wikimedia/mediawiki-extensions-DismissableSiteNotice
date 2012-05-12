@@ -341,7 +341,7 @@ $messages['fr'] = array(
  */
 $messages['frp'] = array(
 	'sitenotice_close' => 'cachiér',
-	'sitenotice-desc' => 'Pèrmèt ux utilisators de cachiér lo sitenotice.',
+	'sitenotice-desc' => 'Pèrmèt ux usanciérs de cachiér lo sitenotice.',
 );
 
 /** Friulian (Furlan)
@@ -397,10 +397,11 @@ $messages['gsw'] = array(
 );
 
 /** Gujarati (ગુજરાતી)
+ * @author Dsvyas
  * @author Sushant savla
  */
 $messages['gu'] = array(
-	'sitenotice_close' => 'રદ્દ કરો',
+	'sitenotice_close' => 'વિસર્જન',
 	'sitenotice-desc' => 'સભ્યને સાઈટ નોટીસ બંધ કરવાની રજા આપે છે',
 );
 
@@ -751,6 +752,13 @@ $messages['or'] = array(
 	'sitenotice-desc' => 'ସଭ୍ୟମାନଙ୍କୁ ସାଇଟ ସୂଚନା ବନ୍ଦକରିବାକୁ ଅନୁମତି ଦେଇଥାଏ',
 );
 
+/** Pälzisch (Pälzisch)
+ * @author Manuae
+ */
+$messages['pfl'] = array(
+	'sitenotice_close' => 'zumache',
+);
+
 /** Polish (Polski)
  * @author Derbeth
  * @author Sp5uhe
@@ -974,7 +982,7 @@ $messages['tg-cyrl'] = array(
 	'sitenotice-desc' => 'Ба корбарон иҷозат медиҳад, ки эълоноти сомонаро пинҳон кунанд',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
