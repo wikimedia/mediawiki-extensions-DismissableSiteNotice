@@ -242,10 +242,11 @@ $messages['de'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Erdemaslancan
  * @author Xoser
  */
 $messages['diq'] = array(
-	'sitenotice_close' => 'vinî bike',
+	'sitenotice_close' => 'Racın',
 	'sitenotice-desc' => 'Karberan rê destur dano ke înan sitenotice biqefilnê',
 );
 
