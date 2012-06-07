@@ -515,7 +515,7 @@ $messages['it'] = array(
  */
 $messages['ja'] = array(
 	'sitenotice_close' => '非表示',
-	'sitenotice-desc' => 'サイトからのお知らせを利用者が非表示にするのを許可する',
+	'sitenotice-desc' => '利用者がサイトからのお知らせを非表示にできるようにする',
 );
 
 /** Jutish (Jysk)
