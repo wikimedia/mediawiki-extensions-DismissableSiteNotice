@@ -598,6 +598,13 @@ $messages['ksh'] = array(
 	'sitenotice-desc' => 'Löht de Lesser un de Metmaachere de <i lang="en">sitenotice</i> ußblende.',
 );
 
+/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+ * @author Ghybu
+ */
+$messages['ku-latn'] = array(
+	'sitenotice_close' => 'veşêre',
+);
+
 /** Latin (Latina)
  * @author MissPetticoats
  * @author UV
