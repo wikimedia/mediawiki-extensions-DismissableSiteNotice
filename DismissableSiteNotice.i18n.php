@@ -85,7 +85,7 @@ $messages['as'] = array(
 	'sitenotice-desc' => 'সহস্যসকলক চাইট নোটিচ বন্ধ কৰিবলৈ অনুমতি দিয়ক',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Esbardu
  */
 $messages['ast'] = array(
@@ -117,7 +117,7 @@ $messages['bcc'] = array(
 	'sitenotice-desc' => 'به کابران اجازت دنت دان یادداشت سایت بندیت',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Yury Tarasievich
  */
 $messages['be'] = array(
@@ -133,7 +133,7 @@ $messages['be-tarask'] = array(
 	'sitenotice-desc' => 'Дазваляе ўдзельнікам хаваць паведамленьні сайту',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -150,7 +150,7 @@ $messages['bn'] = array(
 	'sitenotice-desc' => 'ব্যবহারকারীদেরকে সাইট নোটিশ বন্ধ করার সুযোগ দেয়',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -158,7 +158,7 @@ $messages['br'] = array(
 	'sitenotice-desc' => "Aotren a ra an implijerien da serriñ kemennadenn al lec'hienn greiz",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -166,7 +166,7 @@ $messages['bs'] = array(
 	'sitenotice-desc' => 'Omogućuje korisnicima da zatvore središnje obavještenje',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author SMP
  */
 $messages['ca'] = array(
@@ -186,7 +186,7 @@ $messages['ce'] = array(
 	'sitenotice_close' => 'къайлайаккха',
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author Asoxor
  */
 $messages['ckb'] = array(
@@ -207,7 +207,7 @@ $messages['crh-cyrl'] = array(
 	'sitenotice_close' => 'гизле',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Li-sung
  */
 $messages['cs'] = array(
@@ -223,7 +223,7 @@ $messages['cy'] = array(
 	'sitenotice-desc' => "Yn galluogi defnyddwyr i gau'r hysbysiad",
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Byrial
  */
 $messages['da'] = array(
@@ -276,7 +276,7 @@ $messages['eo'] = array(
 	'sitenotice-desc' => 'Permesas al uzantoj fermi la vikinoticon.',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Icvav
  * @author Muro de Aguas
  */
@@ -285,7 +285,7 @@ $messages['es'] = array(
 	'sitenotice-desc' => 'Permite a los usuarios cerrar el mensaje central.',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Pikne
  * @author WikedKentaur
  */
@@ -294,7 +294,7 @@ $messages['et'] = array(
 	'sitenotice-desc' => 'Lubab kasutajal võrgukohateate sulgeda.',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
@@ -312,7 +312,7 @@ $messages['fa'] = array(
 	'sitenotice-desc' => 'به کاربرها اجازه می‌دهد که اعلانات تارنما را پنهان کنند',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  */
@@ -321,14 +321,14 @@ $messages['fi'] = array(
 	'sitenotice-desc' => 'Mahdollistaa käyttäjille sivutiedotteen piilottamisen.',
 );
 
-/** Faroese (Føroyskt)
+/** Faroese (føroyskt)
  * @author Spacebirdy
  */
 $messages['fo'] = array(
 	'sitenotice_close' => 'flyt burtur',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  * @author Wyz
  */
@@ -337,7 +337,7 @@ $messages['fr'] = array(
 	'sitenotice-desc' => 'Permet aux utilisateurs de masquer le bandeau d’information',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -345,7 +345,7 @@ $messages['frp'] = array(
 	'sitenotice-desc' => 'Pèrmèt ux usanciérs de cachiér lo sitenotice.',
 );
 
-/** Friulian (Furlan)
+/** Friulian (furlan)
  * @author Klenje
  * @author MF-Warburg
  */
@@ -429,7 +429,7 @@ $messages['hif-latn'] = array(
 	'sitenotice_close' => 'Is ke baare me bhuul jao',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Dnik
  * @author SpeedyGonsales
  */
@@ -447,7 +447,7 @@ $messages['hsb'] = array(
 	'sitenotice-desc' => 'Dowola wužiwarjam pobóčnu powěsć začinić',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  */
 $messages['hu'] = array(
@@ -462,7 +462,7 @@ $messages['hy'] = array(
 	'sitenotice_close' => 'փակել',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -493,7 +493,7 @@ $messages['io'] = array(
 	'sitenotice_close' => 'celar',
 );
 
-/** Icelandic (Íslenska)
+/** Icelandic (íslenska)
  * @author Snævar
  */
 $messages['is'] = array(
@@ -501,7 +501,7 @@ $messages['is'] = array(
 	'sitenotice-desc' => 'Leyfir notendum að loka þessari tilkynningu',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author BrokenArrow
  */
 $messages['it'] = array(
@@ -518,7 +518,7 @@ $messages['ja'] = array(
 	'sitenotice-desc' => '利用者がサイトからのお知らせを非表示にできるようにする',
 );
 
-/** Jutish (Jysk)
+/** Jutish (jysk)
  * @author Huslåke
  */
 $messages['jut'] = array(
@@ -631,7 +631,7 @@ $messages['li'] = array(
 	'sitenotice-desc' => 'Stelt gebroekers in staat de siteberichten te sluite',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Garas
  */
 $messages['lt'] = array(
@@ -639,7 +639,7 @@ $messages['lt'] = array(
 	'sitenotice-desc' => 'Leisti naudotojams paslėpti pranešimą',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author Xil
  */
 $messages['lv'] = array(
@@ -651,7 +651,7 @@ $messages['lzh'] = array(
 	'sitenotice_close' => '關',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  * @author Brest
  */
@@ -735,7 +735,7 @@ $messages['nl'] = array(
 	'sitenotice-desc' => 'Stelt gebruikers in staat de siteberichten te sluiten',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -743,7 +743,7 @@ $messages['nn'] = array(
 	'sitenotice-desc' => 'Gjer at brukarar kan fjerne toppmeldinga',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -767,7 +767,7 @@ $messages['pfl'] = array(
 	'sitenotice_close' => 'zumache',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Derbeth
  * @author Sp5uhe
  */
@@ -801,7 +801,7 @@ $messages['ps'] = array(
 	'sitenotice-desc' => 'کارونکي په دې توانوي چې د وېبځي خبرتياوې وتړلای شي.',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  */
@@ -810,7 +810,7 @@ $messages['pt'] = array(
 	'sitenotice-desc' => 'Permite aos utilizadores fecharem a notificação do site',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author 555
  * @author Eduardo.mps
  * @author Jesielt
@@ -827,7 +827,7 @@ $messages['qu'] = array(
 	'sitenotice_close' => 'Pakay',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  * @author Mihai
  */
@@ -836,7 +836,7 @@ $messages['ro'] = array(
 	'sitenotice-desc' => 'Permite utilizatorilor să închidă notificările sitului',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -844,7 +844,7 @@ $messages['roa-tara'] = array(
 	'sitenotice-desc' => "Permette a l'utinde de achiudere 'u site de le notizie",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -860,7 +860,7 @@ $messages['rue'] = array(
 	'sitenotice-desc' => 'Доволює хоснователям заперти повідомлїня в заголовю сайту',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
@@ -868,7 +868,7 @@ $messages['sah'] = array(
 	'sitenotice-desc' => 'Саайт биллэриилэрин көрбөт гынар',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Santu
  */
 $messages['scn'] = array(
@@ -891,7 +891,7 @@ $messages['si'] = array(
 	'sitenotice-desc' => 'sitenotice වසා දැමීමට පරිශීලකයන්ට ඉඩදෙයි',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -899,7 +899,7 @@ $messages['sk'] = array(
 	'sitenotice-desc' => 'Umožňuje používateľom zrušiť zobrazovanie Správy lokality (sitenotice)',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -907,7 +907,7 @@ $messages['sl'] = array(
 	'sitenotice-desc' => 'Dovoli uporabnikom skriti obvestilo strani',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Olsi
  */
 $messages['sq'] = array(
@@ -915,7 +915,7 @@ $messages['sq'] = array(
 	'sitenotice-desc' => 'Lejon përdoruesit për të mbyllur këtë sitenotice',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Millosh
  * @author Rancher
  */
@@ -924,7 +924,7 @@ $messages['sr-ec'] = array(
 	'sitenotice-desc' => 'омогући корисницима да искључе обавештење на сајту',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -949,7 +949,7 @@ $messages['su'] = array(
 	'sitenotice-desc' => 'Matak bisa pamaké pikeun nutupan béwara loka',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  * @author Lejonel
  */
@@ -974,7 +974,7 @@ $messages['te'] = array(
 	'sitenotice-desc' => 'సైటు గమనికని మూసివేసుకునే సదుపాయం వాడుకర్లకు ఇస్తుంది',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -982,7 +982,7 @@ $messages['tet'] = array(
 	'sitenotice-desc' => 'Uza-na\'in sira bele taka "sitenotice"',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -990,7 +990,7 @@ $messages['tg-cyrl'] = array(
 	'sitenotice-desc' => 'Ба корбарон иҷозат медиҳад, ки эълоноти сомонаро пинҳон кунанд',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1038,7 +1038,7 @@ $messages['ts'] = array(
 	'sitenotice_close' => 'Bakanya',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Ильнар
  */
 $messages['tt-cyrl'] = array(
@@ -1046,7 +1046,7 @@ $messages['tt-cyrl'] = array(
 	'sitenotice-desc' => 'Кулланучыларга сәхифә хәбәрләрен яшерергә рөхсәт итү',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Ahonc
  */
 $messages['uk'] = array(
@@ -1062,7 +1062,7 @@ $messages['ur'] = array(
 	'sitenotice-desc' => 'صارفین کو اطلاع نامہ بند کرنے دیتا ہے',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -1095,7 +1095,7 @@ $messages['vro'] = array(
 	'sitenotice-desc' => 'Lupa pruukjal leheteedüse kinniq pandaq',
 );
 
-/** Walloon (Walon) */
+/** Walloon (walon) */
 $messages['wa'] = array(
 	'sitenotice_close' => 'muchyî',
 );
@@ -1122,13 +1122,13 @@ $messages['yue'] = array(
 	'sitenotice-desc' => '容許用戶去閂個網站公告',
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $messages['zh-hans'] = array(
 	'sitenotice_close' => '关闭',
 	'sitenotice-desc' => '容许用户关闭网站公告',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $messages['zh-hant'] = array(
 	'sitenotice_close' => '關閉',
 	'sitenotice-desc' => '容許用戶關閉網站公告',
