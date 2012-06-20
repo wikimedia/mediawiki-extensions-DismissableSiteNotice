@@ -1072,10 +1072,11 @@ $messages['vec'] = array(
 
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
+ * @author Trần Nguyễn Minh Huy
  * @author Vinhtantran
  */
 $messages['vi'] = array(
-	'sitenotice_close' => 'bỏ qua',
+	'sitenotice_close' => 'tắt',
 	'sitenotice-desc' => 'Cho phép người dùng đóng thông báo ở đầu các trang',
 );
 
