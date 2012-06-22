@@ -605,6 +605,13 @@ $messages['ku-latn'] = array(
 	'sitenotice_close' => 'veşêre',
 );
 
+/** Kirghiz (Кыргызча)
+ * @author Chorobek
+ */
+$messages['ky'] = array(
+	'sitenotice_close' => 'жашыр',
+);
+
 /** Latin (Latina)
  * @author MissPetticoats
  * @author UV
