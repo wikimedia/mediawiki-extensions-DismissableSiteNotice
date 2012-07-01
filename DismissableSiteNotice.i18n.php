@@ -50,7 +50,7 @@ $messages['am'] = array(
 	'sitenotice-desc' => 'መልእክቱን ለማውጣት ያስችላል',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -124,7 +124,7 @@ $messages['be'] = array(
 	'sitenotice_close' => 'зняць',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Red Winged Duck
  */
@@ -250,7 +250,7 @@ $messages['diq'] = array(
 	'sitenotice-desc' => 'Karberan rê destur dano ke înan sitenotice biqefilnê',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -371,7 +371,7 @@ $messages['ga'] = array(
 	'sitenotice-desc' => 'Ceadaionn úsáideoirí an fógra suíomh a dhíbh',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  * @author Xosé
  */
@@ -438,7 +438,7 @@ $messages['hr'] = array(
 	'sitenotice-desc' => 'Dopušta korisnicima zatvaranje obavijesti',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Dundak
  * @author Michawiki
  */
@@ -859,7 +859,7 @@ $messages['ru'] = array(
 	'sitenotice-desc' => 'Позволяет участникам скрывать уведомления сайта',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
