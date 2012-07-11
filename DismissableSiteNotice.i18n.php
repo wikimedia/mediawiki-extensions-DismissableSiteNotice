@@ -93,7 +93,7 @@ $messages['ast'] = array(
 	'sitenotice-desc' => "Permite a los usuarios zarrar l'anuncia del sitiu",
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -179,7 +179,7 @@ $messages['cdo'] = array(
 	'sitenotice_close' => 'cĕk lâi',
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -193,14 +193,14 @@ $messages['ckb'] = array(
 	'sitenotice_close' => 'لایبە',
 );
 
-/** Crimean Turkish (Latin script) (‪Qırımtatarca (Latin)‬)
+/** Crimean Turkish (Latin script) (‪qırımtatarca (Latin)‬)
  * @author Don Alessandro
  */
 $messages['crh-latn'] = array(
 	'sitenotice_close' => 'gizle',
 );
 
-/** Crimean Turkish (Cyrillic script) (‪Къырымтатарджа (Кирилл)‬)
+/** Crimean Turkish (Cyrillic script) (‪къырымтатарджа (Кирилл)‬)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
@@ -561,12 +561,12 @@ $messages['kk-arab'] = array(
 	'sitenotice_close' => 'تاسالاتۋ',
 );
 
-/** Kazakh (Cyrillic script) (‪Қазақша (кирил)‬) */
+/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬) */
 $messages['kk-cyrl'] = array(
 	'sitenotice_close' => 'тасалату',
 );
 
-/** Kazakh (Latin script) (‪Qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
 $messages['kk-latn'] = array(
 	'sitenotice_close' => 'tasalatw',
 );
@@ -705,9 +705,7 @@ $messages['nan'] = array(
 	'sitenotice_close' => 'Chhú-siau',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $messages['nb'] = array(
 	'sitenotice_close' => 'lukk',
 	'sitenotice-desc' => 'Gjør at brukere kan fjerne toppbeskjeden',
