@@ -865,6 +865,14 @@ $messages['rue'] = array(
 	'sitenotice-desc' => 'Доволює хоснователям заперти повідомлїня в заголовю сайту',
 );
 
+/** Sanskrit (संस्कृतम्)
+ * @author Shubha
+ */
+$messages['sa'] = array(
+	'sitenotice_close' => 'अपनीयताम्',
+	'sitenotice-desc' => 'क्षेत्रसूचनाः पिधातुं योजकान् अनुमन्यते',
+);
+
 /** Sakha (саха тыла)
  * @author HalanTul
  */
