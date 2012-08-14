@@ -971,6 +971,13 @@ $messages['sv'] = array(
 	'sitenotice-desc' => 'Låter användare dölja meddelanden i sitenotice',
 );
 
+/** Swahili (Kiswahili)
+ * @author Kwisha
+ */
+$messages['sw'] = array(
+	'sitenotice_close' => 'futilia mbali',
+);
+
 /** Tamil (தமிழ்)
  * @author TRYPPN
  */
