@@ -1,4 +1,5 @@
 <?php
+if ( !defined( 'MEDIAWIKI' ) ) die();
 
 $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
@@ -8,7 +9,7 @@ $wgExtensionCredits['other'][] = array(
 	'url' => 'https://www.mediawiki.org/wiki/Extension:DismissableSiteNotice',
 );
 
-$wgExtensionMessagesFiles['DismissableSiteNotice'] = dirname(__FILE__) . '/DismissableSiteNotice.i18n.php';
+$wgExtensionMessagesFiles['DismissableSiteNotice'] = __DIR__ . '/DismissableSiteNotice.i18n.php';
 
 function wfDismissableSiteNotice( &$notice ) {
 	global $wgMajorSiteNoticeID, $wgUser, $wgContLang;
@@ -20,8 +21,8 @@ function wfDismissableSiteNotice( &$notice ) {
 	$floatSide = $wgContLang->alignEnd();
 	$oppositeFloatSide = $wgContLang->alignStart();
 	$encNotice = Xml::escapeJsString($notice);
-	$encClose = Xml::escapeJsString( wfMsg( 'sitenotice_close' ) );
-	$id = intval( $wgMajorSiteNoticeID ) . "." . intval( wfMsgForContent( 'sitenotice_id' ) );
+	$encClose = Xml::escapeJsString( wfMessage( 'sitenotice_close' )->text() );
+	$id = intval( $wgMajorSiteNoticeID ) . "." . intval( wfMessage( 'sitenotice_id' )->inContentLanguage()->text() );
 
 	// No dismissal for anons
 	if ( $wgUser->isAnon() ) {
