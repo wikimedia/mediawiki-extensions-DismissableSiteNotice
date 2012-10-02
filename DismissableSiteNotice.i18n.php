@@ -124,7 +124,7 @@ $messages['be'] = array(
 	'sitenotice_close' => 'зняць',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Red Winged Duck
  */
@@ -193,14 +193,14 @@ $messages['ckb'] = array(
 	'sitenotice_close' => 'لایبە',
 );
 
-/** Crimean Turkish (Latin script) (‪qırımtatarca (Latin)‬)
+/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
  * @author Don Alessandro
  */
 $messages['crh-latn'] = array(
 	'sitenotice_close' => 'gizle',
 );
 
-/** Crimean Turkish (Cyrillic script) (‪къырымтатарджа (Кирилл)‬)
+/** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
@@ -239,6 +239,14 @@ $messages['da'] = array(
 $messages['de'] = array(
 	'sitenotice_close' => 'schließen',
 	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen',
+);
+
+/** Swiss High German (Schweizer Hochdeutsch)
+ * @author Geitost
+ */
+$messages['de-ch'] = array(
+	'sitenotice_close' => 'schliessen',
+	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schliessen',
 );
 
 /** Zazaki (Zazaki)
@@ -556,17 +564,17 @@ $messages['kiu'] = array(
 	'sitenotice_close' => 'def ke',
 );
 
-/** Kazakh (Arabic script) (‫قازاقشا (تٴوتە)‬) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
 $messages['kk-arab'] = array(
 	'sitenotice_close' => 'تاسالاتۋ',
 );
 
-/** Kazakh (Cyrillic script) (‪қазақша (кирил)‬) */
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎) */
 $messages['kk-cyrl'] = array(
 	'sitenotice_close' => 'тасалату',
 );
 
-/** Kazakh (Latin script) (‪qazaqşa (latın)‬) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎) */
 $messages['kk-latn'] = array(
 	'sitenotice_close' => 'tasalatw',
 );
@@ -598,7 +606,7 @@ $messages['ksh'] = array(
 	'sitenotice-desc' => 'Löht de Lesser un de Metmaachere de <i lang="en">sitenotice</i> ußblende.',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author Ghybu
  */
 $messages['ku-latn'] = array(
@@ -705,7 +713,7 @@ $messages['nan'] = array(
 	'sitenotice_close' => 'Chhú-siau',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'sitenotice_close' => 'lukk',
 	'sitenotice-desc' => 'Gjør at brukere kan fjerne toppbeskjeden',
@@ -740,7 +748,7 @@ $messages['nl'] = array(
 	'sitenotice-desc' => 'Stelt gebruikers in staat de siteberichten te sluiten',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
  */
 $messages['nn'] = array(
@@ -928,7 +936,7 @@ $messages['sq'] = array(
 	'sitenotice-desc' => 'Lejon përdoruesit për të mbyllur këtë sitenotice',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Millosh
  * @author Rancher
  */
@@ -937,7 +945,7 @@ $messages['sr-ec'] = array(
 	'sitenotice-desc' => 'омогући корисницима да искључе обавештење на сајту',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1143,13 +1151,13 @@ $messages['yue'] = array(
 	'sitenotice-desc' => '容許用戶去閂個網站公告',
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $messages['zh-hans'] = array(
 	'sitenotice_close' => '关闭',
 	'sitenotice-desc' => '容许用户关闭网站公告',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $messages['zh-hant'] = array(
 	'sitenotice_close' => '關閉',
 	'sitenotice-desc' => '容許用戶關閉網站公告',
