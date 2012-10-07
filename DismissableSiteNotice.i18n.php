@@ -1090,6 +1090,13 @@ $messages['ur'] = array(
 	'sitenotice-desc' => 'صارفین کو اطلاع نامہ بند کرنے دیتا ہے',
 );
 
+/** Uzbek (oʻzbekcha)
+ * @author CoderSI
+ */
+$messages['uz'] = array(
+	'sitenotice-desc' => 'Ishtirokchilarga sayt bildirishnomalarini yashirish imkonini beradi',
+);
+
 /** vèneto (vèneto)
  * @author Candalua
  */
