@@ -750,9 +750,10 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
-	'sitenotice_close' => 'lukk',
+	'sitenotice_close' => 'gøym',
 	'sitenotice-desc' => 'Gjer at brukarar kan fjerne toppmeldinga',
 );
 
