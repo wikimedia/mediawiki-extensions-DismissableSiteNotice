@@ -18,8 +18,10 @@ $messages['en'] = array(
  * @author Purodha
  * @author SPQRobin
  * @author The Evil IP address
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
+	'sitenotice_id' => '{{notranslate}}',
 	'sitenotice_close' => 'Part of the DismissableSiteNotice extension. You can see this on the right side of the [[MediaWiki:Sitenotice|sitenotice]].
 
 The word "dismiss" (or "close") should be in the infinitive mood.',
@@ -174,7 +176,8 @@ $messages['ca'] = array(
 	'sitenotice-desc' => "Permet als usuaris tancar el ''sitenotice''",
 );
 
-/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ */
 $messages['cdo'] = array(
 	'sitenotice_close' => 'cĕk lâi',
 );
@@ -193,18 +196,18 @@ $messages['ckb'] = array(
 	'sitenotice_close' => 'لایبە',
 );
 
-/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
- * @author Don Alessandro
- */
-$messages['crh-latn'] = array(
-	'sitenotice_close' => 'gizle',
-);
-
 /** Crimean Turkish (Cyrillic script) (къырымтатарджа (Кирилл)‎)
  * @author Don Alessandro
  */
 $messages['crh-cyrl'] = array(
 	'sitenotice_close' => 'гизле',
+);
+
+/** Crimean Turkish (Latin script) (qırımtatarca (Latin)‎)
+ * @author Don Alessandro
+ */
+$messages['crh-latn'] = array(
+	'sitenotice_close' => 'gizle',
 );
 
 /** Czech (česky)
@@ -235,8 +238,10 @@ $messages['da'] = array(
  * @author Geitost
  * @author Kghbln
  * @author Raimond Spekking
+ * @author Tiin
  */
 $messages['de'] = array(
+	'sitenotice_id' => '0',
 	'sitenotice_close' => 'schließen',
 	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen',
 );
@@ -561,20 +566,24 @@ $messages['kaa'] = array(
  * @author Mirzali
  */
 $messages['kiu'] = array(
+	'sitenotice_id' => '0',
 	'sitenotice_close' => 'def ke',
 );
 
-/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏) */
+/** Kazakh (Arabic script) (قازاقشا (تٴوتە)‏)
+ */
 $messages['kk-arab'] = array(
 	'sitenotice_close' => 'تاسالاتۋ',
 );
 
-/** Kazakh (Cyrillic script) (қазақша (кирил)‎) */
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎)
+ */
 $messages['kk-cyrl'] = array(
 	'sitenotice_close' => 'тасалату',
 );
 
-/** Kazakh (Latin script) (qazaqşa (latın)‎) */
+/** Kazakh (Latin script) (qazaqşa (latın)‎)
+ */
 $messages['kk-latn'] = array(
 	'sitenotice_close' => 'tasalatw',
 );
@@ -626,7 +635,7 @@ $messages['ky'] = array(
  */
 $messages['la'] = array(
 	'sitenotice_close' => 'celare',
-	'sitenotice-desc' => ' Licet interretiariorum claudere nuntium loci.',
+	'sitenotice-desc' => ' Licet interretiariorum claudere nuntium loci.', # Fuzzy
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -661,7 +670,8 @@ $messages['lv'] = array(
 	'sitenotice_close' => 'paslēpt',
 );
 
-/** Literary Chinese (文言) */
+/** Literary Chinese (文言)
+ */
 $messages['lzh'] = array(
 	'sitenotice_close' => '關',
 );
@@ -671,6 +681,7 @@ $messages['lzh'] = array(
  * @author Brest
  */
 $messages['mk'] = array(
+	'sitenotice_id' => '0',
 	'sitenotice_close' => 'скриј',
 	'sitenotice-desc' => 'Им овозможува корисниците да го затворат известувањето на главната страница',
 );
@@ -708,12 +719,14 @@ $messages['mt'] = array(
 	'sitenotice-desc' => "Tħalli lill-utenti jgħalqu s-''sitenotice''",
 );
 
-/** Min Nan Chinese (Bân-lâm-gú) */
+/** Min Nan Chinese (Bân-lâm-gú)
+ */
 $messages['nan'] = array(
 	'sitenotice_close' => 'Chhú-siau',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
 $messages['nb'] = array(
 	'sitenotice_close' => 'lukk',
 	'sitenotice-desc' => 'Gjør at brukere kan fjerne toppbeskjeden',
@@ -735,7 +748,8 @@ $messages['nds-nl'] = array(
 	'sitenotice-desc' => 'Geef gebrukers de meugelikheid um websteetiejigen te verbargen',
 );
 
-/** Nepali (नेपाली) */
+/** Nepali (नेपाली)
+ */
 $messages['ne'] = array(
 	'sitenotice_close' => 'खारेज',
 );
@@ -825,9 +839,9 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author Eduardo.mps
  * @author Jesielt
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'sitenotice_close' => 'ignorar',
@@ -1132,7 +1146,8 @@ $messages['vro'] = array(
 	'sitenotice-desc' => 'Lupa pruukjal leheteedüse kinniq pandaq',
 );
 
-/** Walloon (walon) */
+/** Walloon (walon)
+ */
 $messages['wa'] = array(
 	'sitenotice_close' => 'muchyî',
 );
@@ -1153,21 +1168,23 @@ $messages['yo'] = array(
 	'sitenotice_close' => 'palẹ̀mọ́',
 );
 
-/** Cantonese (粵語) */
+/** Cantonese (粵語)
+ */
 $messages['yue'] = array(
 	'sitenotice_close' => '閂咗佢',
 	'sitenotice-desc' => '容許用戶去閂個網站公告',
 );
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Simplified Chinese (中文（简体）‎)
+ */
 $messages['zh-hans'] = array(
 	'sitenotice_close' => '关闭',
 	'sitenotice-desc' => '容许用户关闭网站公告',
 );
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）‎)
+ */
 $messages['zh-hant'] = array(
 	'sitenotice_close' => '關閉',
 	'sitenotice-desc' => '容許用戶關閉網站公告',
 );
-
