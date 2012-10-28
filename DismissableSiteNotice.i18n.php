@@ -241,7 +241,6 @@ $messages['da'] = array(
  * @author Tiin
  */
 $messages['de'] = array(
-	'sitenotice_id' => '0',
 	'sitenotice_close' => 'schließen',
 	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen',
 );
@@ -566,7 +565,6 @@ $messages['kaa'] = array(
  * @author Mirzali
  */
 $messages['kiu'] = array(
-	'sitenotice_id' => '0',
 	'sitenotice_close' => 'def ke',
 );
 
@@ -681,7 +679,6 @@ $messages['lzh'] = array(
  * @author Brest
  */
 $messages['mk'] = array(
-	'sitenotice_id' => '0',
 	'sitenotice_close' => 'скриј',
 	'sitenotice-desc' => 'Им овозможува корисниците да го затворат известувањето на главната страница',
 );
