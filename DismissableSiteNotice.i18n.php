@@ -1106,6 +1106,7 @@ $messages['ur'] = array(
  * @author CoderSI
  */
 $messages['uz'] = array(
+	'sitenotice_close' => 'yashirish',
 	'sitenotice-desc' => 'Ishtirokchilarga sayt bildirishnomalarini yashirish imkonini beradi',
 );
 
