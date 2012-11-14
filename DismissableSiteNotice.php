@@ -68,7 +68,7 @@ if (cookieValue != siteNoticeID) {
 	document.writeln('<div id="mw-dismissable-notice">'
 			+ '<div style="float: ' + floatSide + ';">[<a href="javascript:dismissNotice();">' + msgClose + '</a>]</div>'
 			+ '<div style="margin-top: 0.5em; margin-bottom: 0.5em; margin-' + floatSide
-			+ ': 20%; margin-' + oppositeFloatSide + ': 5em;" id="localNotice">' + siteNoticeValue + '</div>'
+			+ ': 20%; margin-' + oppositeFloatSide + ': 5em;">' + siteNoticeValue + '</div>'
 		+ '</div>'
 	);
 }
