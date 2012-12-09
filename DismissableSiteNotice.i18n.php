@@ -95,6 +95,13 @@ $messages['ast'] = array(
 	'sitenotice-desc' => "Permite a los usuarios zarrar l'anuncia del sitiu",
 );
 
+/** South Azerbaijani (تورکجه)
+ * @author Amir a57
+ */
+$messages['azb'] = array(
+	'sitenotice_close' => 'باغلا',
+);
+
 /** Bashkir (башҡортса)
  * @author Assele
  */
@@ -603,6 +610,14 @@ $messages['km'] = array(
 $messages['ko'] = array(
 	'sitenotice_close' => '숨기기',
 	'sitenotice-desc' => '사용자가 알림말을 숨길 수 있습니다.',
+);
+
+/** Karachay-Balkar (къарачай-малкъар)
+ * @author Iltever
+ */
+$messages['krc'] = array(
+	'sitenotice_close' => 'джашыр',
+	'sitenotice-desc' => 'Къошулуучулагъа сайтны билдириулерин джабаргъа мадар береди',
 );
 
 /** Colognian (Ripoarisch)
