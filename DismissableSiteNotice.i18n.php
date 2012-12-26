@@ -497,6 +497,13 @@ $messages['id'] = array(
 	'sitenotice-desc' => 'Memungkinkan pengguna untuk menutup pengumuman situs',
 );
 
+/** Igbo (Igbo)
+ * @author Ukabia
+ */
+$messages['ig'] = array(
+	'sitenotice_close' => 'gba nkị́tị̀',
+);
+
 /** Iloko (Ilokano)
  * @author Lam-ang
  */
