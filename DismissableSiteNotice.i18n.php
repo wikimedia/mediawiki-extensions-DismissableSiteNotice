@@ -766,7 +766,7 @@ $messages['nds'] = array(
 	'sitenotice-desc' => 'Verlöövt Brukers dat Sluten vun de Sitenotice',
 );
 
-/** Nedersaksisch (Nedersaksisch)
+/** Nedersaksies (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
