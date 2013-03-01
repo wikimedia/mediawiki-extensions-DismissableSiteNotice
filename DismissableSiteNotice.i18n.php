@@ -17,6 +17,7 @@ $messages['en'] = array(
 /** Message documentation (Message documentation)
  * @author Purodha
  * @author SPQRobin
+ * @author Shirayuki
  * @author The Evil IP address
  * @author Umherirrender
  */
@@ -24,7 +25,8 @@ $messages['qqq'] = array(
 	'sitenotice_id' => '{{notranslate}}',
 	'sitenotice_close' => 'Part of the DismissableSiteNotice extension. You can see this on the right side of the [[MediaWiki:Sitenotice|sitenotice]].
 
-The word "dismiss" (or "close") should be in the infinitive mood.',
+The word "dismiss" (or "close") should be in the infinitive mood.
+{{Identical|Dismiss}}',
 	'sitenotice-desc' => '{{desc}}',
 );
 
