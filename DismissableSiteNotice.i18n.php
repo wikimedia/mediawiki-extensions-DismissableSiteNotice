@@ -1117,6 +1117,13 @@ $messages['tt-cyrl'] = array(
 	'sitenotice-desc' => 'Кулланучыларга сәхифә хәбәрләрен яшерергә рөхсәт итү',
 );
 
+/** Central Atlas Tamazight (ⵜⴰⵎⴰⵣⵉⵖⵜ)
+ * @author Tifinaghes
+ */
+$messages['tzm'] = array(
+	'sitenotice_close' => 'ⵇⵇⵏ',
+);
+
 /** Ukrainian (українська)
  * @author Ahonc
  */
