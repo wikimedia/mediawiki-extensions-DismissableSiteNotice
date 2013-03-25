@@ -311,7 +311,7 @@ $messages['es'] = array(
  * @author WikedKentaur
  */
 $messages['et'] = array(
-	'sitenotice_close' => 'Peida sõnum',
+	'sitenotice_close' => 'peida',
 	'sitenotice-desc' => 'Lubab kasutajal võrgukohateate sulgeda.',
 );
 
