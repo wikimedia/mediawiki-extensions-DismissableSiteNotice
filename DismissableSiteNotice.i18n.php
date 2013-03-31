@@ -9,9 +9,10 @@
 $messages = array();
 
 $messages['en'] = array(
-	'sitenotice_id'    => '0', # Do not translate this
-	'sitenotice_close' => 'dismiss',
-	'sitenotice-desc'  => 'Allows users to close the sitenotice',
+	'sitenotice_id'             => '0', # Do not translate this
+	'sitenotice_close'          => 'dismiss',
+	'sitenotice_close-brackets' => '[$1]',
+	'sitenotice-desc'           => 'Allows users to close the sitenotice',
 );
 
 /** Message documentation (Message documentation)
@@ -27,6 +28,8 @@ $messages['qqq'] = array(
 
 The word "dismiss" (or "close") should be in the infinitive mood.
 {{Identical|Dismiss}}',
+	'sitenotice_close-brackets' => '{{Optional}}
+Parameter $1 is {{msg-mw|sitenotice_close}}, rendered as a link.',
 	'sitenotice-desc' => '{{desc}}',
 );
 
