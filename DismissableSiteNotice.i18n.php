@@ -249,11 +249,13 @@ $messages['da'] = array(
 /** German (Deutsch)
  * @author Geitost
  * @author Kghbln
+ * @author Metalhead64
  * @author Raimond Spekking
  * @author Tiin
  */
 $messages['de'] = array(
 	'sitenotice_close' => 'schließen',
+	'sitenotice_close-brackets' => '[$1]',
 	'sitenotice-desc' => 'Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen',
 );
 
@@ -354,10 +356,12 @@ $messages['fo'] = array(
 
 /** French (français)
  * @author IAlex
+ * @author Metroitendo
  * @author Wyz
  */
 $messages['fr'] = array(
 	'sitenotice_close' => 'masquer',
+	'sitenotice_close-brackets' => '[$1]',
 	'sitenotice-desc' => 'Permet aux utilisateurs de masquer le bandeau d’information',
 );
 
