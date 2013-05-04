@@ -904,6 +904,7 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'sitenotice_close' => 'achiude',
+	'sitenotice_close-brackets' => '[$1]',
 	'sitenotice-desc' => "Permette a l'utinde de achiudere 'u site de le notizie",
 );
 
