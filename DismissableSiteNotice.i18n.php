@@ -94,10 +94,11 @@ $messages['as'] = array(
 
 /** Asturian (asturianu)
  * @author Esbardu
+ * @author Xuacu
  */
 $messages['ast'] = array(
-	'sitenotice_close' => 'desaniciar',
-	'sitenotice-desc' => "Permite a los usuarios zarrar l'anuncia del sitiu",
+	'sitenotice_close' => 'zarrar',
+	'sitenotice-desc' => "Permite a los usuarios zarrar l'avisu del sitiu",
 );
 
 /** South Azerbaijani (تورکجه)
