@@ -374,6 +374,14 @@ $messages['frp'] = array(
 	'sitenotice-desc' => 'Pèrmèt ux usanciérs de cachiér lo sitenotice.',
 );
 
+/** Northern Frisian (Nordfriisk)
+ * @author Murma174
+ */
+$messages['frr'] = array(
+	'sitenotice_close' => 'Fersteeg',
+	'sitenotice-desc' => 'Diarmä kön brükern det noorachtenkasje fersteeg',
+);
+
 /** Friulian (furlan)
  * @author Klenje
  * @author MF-Warburg
