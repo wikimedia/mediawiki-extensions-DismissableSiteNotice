@@ -631,10 +631,11 @@ $messages['km'] = array(
 /** Korean (한국어)
  * @author Klutzy
  * @author ToePeu
+ * @author 아라
  */
 $messages['ko'] = array(
 	'sitenotice_close' => '숨기기',
-	'sitenotice-desc' => '사용자가 알림말을 숨길 수 있습니다.',
+	'sitenotice-desc' => '사용자가 사이트 공지를 닫을 수 있습니다',
 );
 
 /** Karachay-Balkar (къарачай-малкъар)
