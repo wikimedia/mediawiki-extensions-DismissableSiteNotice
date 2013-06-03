@@ -83,7 +83,7 @@ $messages['arz'] = array(
 	'sitenotice-desc' => 'بيسمح لليوزرز انهم يقفلو اعلانات الموقع',
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Chaipau
  * @author Rajuonline
  */
@@ -770,7 +770,7 @@ $messages['nan'] = array(
 	'sitenotice_close' => 'Chhú-siau',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  */
 $messages['nb'] = array(
 	'sitenotice_close' => 'lukk',
@@ -785,7 +785,7 @@ $messages['nds'] = array(
 	'sitenotice-desc' => 'Verlöövt Brukers dat Sluten vun de Sitenotice',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
@@ -807,7 +807,7 @@ $messages['nl'] = array(
 	'sitenotice-desc' => 'Stelt gebruikers in staat de siteberichten te sluiten',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Frokor
  * @author Njardarlogar
  */
@@ -824,7 +824,7 @@ $messages['oc'] = array(
 	'sitenotice-desc' => 'Permet als utilizaires de tampar lo sitenotice',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Odisha1
  * @author Psubhashish
  */
