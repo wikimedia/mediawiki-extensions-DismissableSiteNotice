@@ -663,9 +663,10 @@ $messages['ku-latn'] = array(
 
 /** Cornish (kernowek)
  * @author Kernoweger
+ * @author Nrowe
  */
 $messages['kw'] = array(
-	'sitenotice_close' => 'cudha',
+	'sitenotice_close' => 'kudha',
 );
 
 /** Kirghiz (Кыргызча)
