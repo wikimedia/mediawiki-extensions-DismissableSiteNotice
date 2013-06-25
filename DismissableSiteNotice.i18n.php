@@ -132,6 +132,13 @@ $messages['bcc'] = array(
 	'sitenotice-desc' => 'به کابران اجازت دنت دان یادداشت سایت بندیت',
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'sitenotice_close' => 'punduha',
+);
+
 /** Belarusian (беларуская)
  * @author Yury Tarasievich
  */
@@ -142,9 +149,11 @@ $messages['be'] = array(
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Red Winged Duck
+ * @author Wizardist
  */
 $messages['be-tarask'] = array(
 	'sitenotice_close' => 'схаваць',
+	'sitenotice_close-brackets' => '[$1]',
 	'sitenotice-desc' => 'Дазваляе ўдзельнікам хаваць паведамленьні сайту',
 );
 
