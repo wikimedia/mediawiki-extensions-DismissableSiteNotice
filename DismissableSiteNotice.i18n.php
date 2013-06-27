@@ -136,7 +136,8 @@ $messages['bcc'] = array(
  * @author Geopoet
  */
 $messages['bcl'] = array(
-	'sitenotice_close' => 'punduha',
+	'sitenotice_close' => 'bayai',
+	'sitenotice-desc' => 'Minatugot sa mga paragamit na seraduhan an sitenotice',
 );
 
 /** Belarusian (беларуская)
