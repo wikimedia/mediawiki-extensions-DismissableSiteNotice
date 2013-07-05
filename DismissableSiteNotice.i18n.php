@@ -200,9 +200,10 @@ $messages['ca'] = array(
 );
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ * @author Yejianfei
  */
 $messages['cdo'] = array(
-	'sitenotice_close' => 'cĕk lâi',
+	'sitenotice_close' => '開除',
 );
 
 /** Chechen (нохчийн)
