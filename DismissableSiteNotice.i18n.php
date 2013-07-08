@@ -761,10 +761,12 @@ $messages['mr'] = array(
 );
 
 /** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
  * @author Aviator
  */
 $messages['ms'] = array(
 	'sitenotice_close' => 'singkir',
+	'sitenotice_close-brackets' => '[$1]',
 	'sitenotice-desc' => 'Membolehkan pengguna menutup notis',
 );
 
