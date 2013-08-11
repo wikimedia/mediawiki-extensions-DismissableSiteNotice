@@ -701,6 +701,7 @@ $messages['la'] = array(
  */
 $messages['lb'] = array(
 	'sitenotice_close' => 'verstoppen',
+	'sitenotice_close-brackets' => '[$1]',
 	'sitenotice-desc' => "Erlaabt et de Benotzer fir d'Sitenotice zouzemaachen",
 );
 
