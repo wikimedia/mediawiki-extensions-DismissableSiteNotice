@@ -341,12 +341,13 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Dalba
  * @author Ebraminio
  * @author Huji
  * @author Mjbmr
  */
 $messages['fa'] = array(
-	'sitenotice_close' => 'بستن',
+	'sitenotice_close' => 'پنهان‌سازی',
 	'sitenotice-desc' => 'به کاربرها اجازه می‌دهد که اعلانات تارنما را پنهان کنند',
 );
 
