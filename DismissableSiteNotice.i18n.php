@@ -746,11 +746,12 @@ $messages['mk'] = array(
 );
 
 /** Malayalam (മലയാളം)
+ * @author Praveenp
  * @author Shijualex
  */
 $messages['ml'] = array(
-	'sitenotice_close' => 'നീക്കം ചെയ്യുക',
-	'sitenotice-desc' => 'സൈറ്റ്നോട്ടീസ് മറയ്ക്കുവാൻ ഉപയോക്താക്കളെ അനുവദിക്കുക',
+	'sitenotice_close' => 'ഒഴിവാക്കുക',
+	'sitenotice-desc' => 'സൈറ്റ്നോട്ടീസ് അടയ്ക്കുവാൻ ഉപയോക്താക്കളെ അനുവദിക്കുക',
 );
 
 /** Marathi (मराठी)
