@@ -29,7 +29,8 @@ $messages['qqq'] = array(
 The word "dismiss" (or "close") should be in the infinitive mood.
 {{Identical|Dismiss}}',
 	'sitenotice_close-brackets' => '{{Optional}}
-Parameter $1 is {{msg-mw|sitenotice_close}}, rendered as a link.',
+Parameters:
+* $1 - {{msg-mw|Sitenotice close}}, rendered as a link',
 	'sitenotice-desc' => '{{desc|name=Dismissable SiteNotice|url=http://www.mediawiki.org/wiki/Extension:DismissableSiteNotice}}',
 );
 
