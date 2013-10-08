@@ -682,7 +682,7 @@ $messages['kw'] = array(
 	'sitenotice_close' => 'kudha',
 );
 
-/** Kirghiz (Кыргызча)
+/** Kyrgyz (Кыргызча)
  * @author Chorobek
  */
 $messages['ky'] = array(
