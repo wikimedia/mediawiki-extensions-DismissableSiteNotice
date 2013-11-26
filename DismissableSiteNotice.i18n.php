@@ -392,7 +392,7 @@ $messages['frp'] = array(
  */
 $messages['frr'] = array(
 	'sitenotice_close' => 'Fersteeg',
-	'sitenotice-desc' => 'Diarmä kön brükern det noorachtenkasje fersteeg',
+	'sitenotice-desc' => 'Diarmä kön brükern di postkasche fersteeg',
 );
 
 /** Friulian (furlan)
