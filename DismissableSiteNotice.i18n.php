@@ -93,6 +93,13 @@ $messages['as'] = array(
 	'sitenotice-desc' => 'সহস্যসকলক চাইট নোটিচ বন্ধ কৰিবলৈ অনুমতি দিয়ক',
 );
 
+/** American sign language (American sign language)
+ * @author Icemandeaf
+ */
+$messages['ase'] = array(
+	'sitenotice_close-brackets' => 'S38b00470x493 $1 S38b04470x493',
+);
+
 /** Asturian (asturianu)
  * @author Esbardu
  * @author Xuacu
