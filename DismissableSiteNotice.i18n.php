@@ -242,7 +242,7 @@ $messages['crh-latn'] = array(
 	'sitenotice_close' => 'gizle',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Li-sung
  */
 $messages['cs'] = array(
