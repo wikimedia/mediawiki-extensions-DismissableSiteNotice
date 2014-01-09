@@ -723,6 +723,14 @@ $messages['li'] = array(
 	'sitenotice-desc' => 'Stelt gebroekers in staat de siteberichten te sluite',
 );
 
+/** لوری (لوری)
+ * @author Mogoeilor
+ */
+$messages['lrc'] = array(
+	'sitenotice_close' => 'خلاص کردن',
+	'sitenotice-desc' => 'د کاروریا اجازه بئتو سی یه که د مالگه خوردار بیئن نه بونن',
+);
+
 /** Lithuanian (lietuvių)
  * @author Garas
  */
