@@ -216,9 +216,11 @@ $messages['cdo'] = array(
 
 /** Chechen (нохчийн)
  * @author Sasan700
+ * @author Умар
  */
 $messages['ce'] = array(
 	'sitenotice_close' => 'къайлайаккха',
+	'sitenotice-desc' => 'Декъашхошна сайтан хаамаш хьулбан таро хуьлуьйту',
 );
 
 /** Sorani Kurdish (کوردی)
