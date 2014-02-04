@@ -26,6 +26,11 @@ $wgResourceModules['ext.dismissableSiteNotice'] = array(
 	'position' => 'top',
 );
 
+/**
+ * @param string $notice
+ * @param Skin $skin
+ * @return bool true
+ */
 $wgHooks['SiteNoticeAfter'][] = function( &$notice, $skin ) {
 	global $wgMajorSiteNoticeID;
 
