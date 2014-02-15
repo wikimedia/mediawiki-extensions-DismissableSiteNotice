@@ -1034,19 +1034,21 @@ $messages['sq'] = array(
 );
 
 /** Serbian (Cyrillic script) (српски (ћирилица)‎)
+ * @author Milicevic01
  * @author Millosh
  * @author Rancher
  */
 $messages['sr-ec'] = array(
-	'sitenotice_close' => 'одбаци',
+	'sitenotice_close' => 'сакриј',
 	'sitenotice-desc' => 'омогући корисницима да искључе обавештење на сајту',
 );
 
 /** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
+ * @author Milicevic01
  */
 $messages['sr-el'] = array(
-	'sitenotice_close' => 'otkaži',
+	'sitenotice_close' => 'sakrij',
 	'sitenotice-desc' => 'omogući korisnicima da isključe obaveštenje na sajtu',
 );
 
