@@ -308,11 +308,12 @@ $messages['dsb'] = array(
 
 /** Greek (Ελληνικά)
  * @author Consta
+ * @author Evropi
  * @author ZaDiak
  * @author Απεργός
  */
 $messages['el'] = array(
-	'sitenotice_close' => 'κλείσιμο',
+	'sitenotice_close' => 'απόρριψη',
 	'sitenotice-desc' => 'Επιτρέπει στους χρήστες να κλείσουν την ειδοποίηση του ιστότοπου',
 );
 
