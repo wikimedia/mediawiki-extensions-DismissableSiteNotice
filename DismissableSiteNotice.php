@@ -12,6 +12,7 @@ $wgExtensionCredits['other'][] = array(
 	'url' => 'https://www.mediawiki.org/wiki/Extension:DismissableSiteNotice',
 );
 
+$wgMessagesDirs['DismissableSiteNotice'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['DismissableSiteNotice'] = __DIR__ . '/DismissableSiteNotice.i18n.php';
 
 $wgResourceModules['ext.dismissableSiteNotice'] = array(
