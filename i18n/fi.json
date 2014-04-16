@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cimon Avaro",
-            "Crt"
-        ]
-    },
-    "sitenotice_close": "piilota",
-    "sitenotice-desc": "Mahdollistaa käyttäjille sivutiedotteen piilottamisen."
+	"@metadata": {
+		"authors": [
+			"Cimon Avaro",
+			"Crt"
+		]
+	},
+	"sitenotice_close": "piilota",
+	"sitenotice-desc": "Mahdollistaa käyttäjille sivutiedotteen piilottamisen."
 }

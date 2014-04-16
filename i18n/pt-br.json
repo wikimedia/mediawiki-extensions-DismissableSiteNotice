@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Eduardo.mps",
-            "Jesielt",
-            "555"
-        ]
-    },
-    "sitenotice_close": "ignorar",
-    "sitenotice-desc": "Permite que os usuários ocultem o banner de avisos"
+	"@metadata": {
+		"authors": [
+			"Eduardo.mps",
+			"Jesielt",
+			"555"
+		]
+	},
+	"sitenotice_close": "ignorar",
+	"sitenotice-desc": "Permite que os usuários ocultem o banner de avisos"
 }

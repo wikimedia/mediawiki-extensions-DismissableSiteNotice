@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Huslåke"
-        ]
-    },
-    "sitenotice_close": "slet",
-    "sitenotice-desc": "Enmåge bruger til slette'n sitenotice"
+	"@metadata": {
+		"authors": [
+			"Huslåke"
+		]
+	},
+	"sitenotice_close": "slet",
+	"sitenotice-desc": "Enmåge bruger til slette'n sitenotice"
 }

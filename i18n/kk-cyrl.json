@@ -1,6 +1,9 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "sitenotice_close": "тасалату"
+	"@metadata": {
+		"authors": [
+			"Arystanbek"
+		]
+	},
+	"sitenotice_close": "тасалату",
+	"sitenotice-desc": "Қатысушыларға сайт жариясын жабуға рұқсат ету"
 }

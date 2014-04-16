@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Theklan"
-        ]
-    },
-    "sitenotice_close": "kendu",
-    "sitenotice-desc": "Erabiltzaileei sitenotice ixtea baimendu"
+	"@metadata": {
+		"authors": [
+			"Theklan"
+		]
+	},
+	"sitenotice_close": "kendu",
+	"sitenotice-desc": "Erabiltzaileei sitenotice ixtea baimendu"
 }

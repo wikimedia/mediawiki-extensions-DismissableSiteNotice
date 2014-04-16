@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "CERminator"
-        ]
-    },
-    "sitenotice_close": "sakrij",
-    "sitenotice-desc": "Omogućuje korisnicima da zatvore središnje obavještenje"
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"sitenotice_close": "sakrij",
+	"sitenotice-desc": "Omogućuje korisnicima da zatvore središnje obavještenje"
 }

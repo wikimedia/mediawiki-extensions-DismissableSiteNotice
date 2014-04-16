@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ahonc"
-        ]
-    },
-    "sitenotice_close": "приховати",
-    "sitenotice-desc": "Дозволяє користувачам приховувати повідомлення сайту"
+	"@metadata": {
+		"authors": [
+			"Ahonc"
+		]
+	},
+	"sitenotice_close": "приховати",
+	"sitenotice-desc": "Дозволяє користувачам приховувати повідомлення сайту"
 }

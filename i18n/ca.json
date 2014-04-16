@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "SMP"
-        ]
-    },
-    "sitenotice_close": "amaga",
-    "sitenotice-desc": "Permet als usuaris tancar el ''sitenotice''"
+	"@metadata": {
+		"authors": [
+			"SMP"
+		]
+	},
+	"sitenotice_close": "amaga",
+	"sitenotice-desc": "Permet als usuaris tancar el ''sitenotice''"
 }
