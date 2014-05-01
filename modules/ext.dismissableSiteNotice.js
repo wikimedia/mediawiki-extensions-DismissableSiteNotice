@@ -18,11 +18,11 @@
 			.find( 'a' )
 				.click( function ( e ) {
 					e.preventDefault();
+					$( this ).closest( '.mw-dismissable-notice' ).hide();
 					$.cookie( cookieName, siteNoticeId, {
 						expires: 30,
 						path: '/'
 					} );
-					$( this ).closest( '.mw-dismissable-notice' ).hide();
 				} );
 	} );
 
