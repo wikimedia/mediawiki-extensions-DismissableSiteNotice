@@ -24,6 +24,7 @@ $wgResourceModules['ext.dismissableSiteNotice'] = array(
 		'jquery.cookie',
 		'mediawiki.util',
 	),
+	'targets' => array( 'desktop', 'mobile' ),
 	'position' => 'top',
 );
 
