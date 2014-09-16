@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Boivie",
-			"Lejonel"
+			"Lejonel",
+			"Lokal Profil"
 		]
 	},
 	"sitenotice_close": "dölj",
-	"sitenotice-desc": "Låter användare dölja meddelanden i sitenotice"
+	"sitenotice-desc": "Låter användare stänga meddelanden i sitenotice"
 }
