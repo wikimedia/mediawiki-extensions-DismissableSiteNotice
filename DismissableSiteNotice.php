@@ -1,4 +1,5 @@
 <?php
+
 /**
  * DismissableSiteNotice extension - allows users to dismiss (hide)
  * the sitenotice.
@@ -13,43 +14,15 @@
  * @link http://www.mediawiki.org/wiki/Extension:DismissableSiteNotice Documentation
  */
 
- # Not a valid entry point, skip unless MEDIAWIKI is defined
-if ( !defined( 'MEDIAWIKI' ) ) {
-	echo "This is a MediaWiki extension";
-	exit( 1 );
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'DismissableSiteNotice' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['DismissableSiteNotice'] = __DIR__ . '/i18n';
+	/* wfWarn(
+		'Deprecated PHP entry point used for DismissableSiteNotice extension. Please use wfLoadExtension instead, ' .
+		'see https://www.mediawiki.org/wiki/Extension_registration for more details.'
+	); */
+	return;
+} else {
+	die( 'This version of the DismissableSiteNotice extension requires MediaWiki 1.25+' );
 }
-
-$wgExtensionCredits['other'][] = array(
-	'path' => __FILE__,
-	'name' => 'DismissableSiteNotice',
-	'author' => array(
-		'Brion Vibber',
-		'Kevin Israel',
-		'Dror S.',
-	),
-	'version' => '1.0.1',
-	'descriptionmsg' => 'sitenotice-desc',
-	'url' => 'https://www.mediawiki.org/wiki/Extension:DismissableSiteNotice',
-);
-
-$wgMessagesDirs['DismissableSiteNotice'] = __DIR__ . '/i18n';
-$wgAutoloadClasses['DismissableSiteNoticeHooks'] = __DIR__ . '/DismissableSiteNotice.hooks.php';
-
-$wgResourceModules['ext.dismissableSiteNotice'] = array(
-	'localBasePath' => __DIR__ . '/modules',
-	'remoteExtPath' => 'DismissableSiteNotice/modules',
-	'scripts' => 'ext.dismissableSiteNotice.js',
-	'styles' => 'ext.dismissableSiteNotice.css',
-	'dependencies' => array(
-		'jquery.cookie',
-		'mediawiki.util',
-	),
-	'targets' => array( 'desktop', 'mobile' ),
-	'position' => 'top',
-);
-
-$wgHooks['SiteNoticeAfter'][] = 'DismissableSiteNoticeHooks::onSiteNoticeAfter';
-
-// Default settings
-$wgMajorSiteNoticeID = 1;
-$wgDismissableSiteNoticeForAnons = false;
