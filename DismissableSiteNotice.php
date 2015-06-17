@@ -33,7 +33,6 @@ $wgExtensionCredits['other'][] = array(
 );
 
 $wgMessagesDirs['DismissableSiteNotice'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['DismissableSiteNotice'] = __DIR__ . '/DismissableSiteNotice.i18n.php';
 
 $wgResourceModules['ext.dismissableSiteNotice'] = array(
 	'localBasePath' => __DIR__ . '/modules',
