@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"CERminator"
+			"CERminator",
+			"Srdjan m"
 		]
 	},
-	"sitenotice_close": "sakrij",
+	"sitenotice_close": "zatvori",
 	"sitenotice-desc": "Omogućuje korisnicima da zatvore središnje obavještenje"
 }
