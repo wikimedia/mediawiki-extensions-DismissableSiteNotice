@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Huslåke"
+			"Huslåke",
+			"Jyllanj"
 		]
 	},
-	"sitenotice_close": "slet",
-	"sitenotice-desc": "Enmåge bruger til slette'n sitenotice"
+	"sitenotice_close": "sjul",
+	"sitenotice-desc": "Mulidjör å bruga kan sjul toppbeskedi"
 }
