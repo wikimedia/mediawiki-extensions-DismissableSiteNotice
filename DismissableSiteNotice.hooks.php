@@ -21,6 +21,7 @@ class DismissableSiteNoticeHooks {
 			$minor = (int) $skin->msg( 'sitenotice_id' )->inContentLanguage()->text();
 
 			$out = $skin->getOutput();
+			$out->addModuleStyles( 'ext.dismissableSiteNotice.styles' );
 			$out->addModules( 'ext.dismissableSiteNotice' );
 			$out->addJsConfigVars( 'wgSiteNoticeId', "$major.$minor" );
 
@@ -37,7 +38,7 @@ class DismissableSiteNoticeHooks {
 		}
 
 		if ( $skin->getUser()->isAnon() ) {
-			// Hide the sitenotice from search engines (see bug 9209 comment 4)
+			// Hide the sitenotice from search engines (see bug T11209 comment 4)
 			// XXX: Does this actually work?
 			$notice = Html::inlineScript( Xml::encodeJsCall( 'document.write', array( $notice ) ) );
 		}
