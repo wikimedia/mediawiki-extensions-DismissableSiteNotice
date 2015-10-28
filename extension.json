@@ -27,11 +27,17 @@
 	"ResourceModules": {
 		"ext.dismissableSiteNotice": {
 			"scripts": "ext.dismissableSiteNotice.js",
-			"styles": "ext.dismissableSiteNotice.css",
 			"dependencies": [
 				"jquery.cookie",
 				"mediawiki.util"
 			],
+			"targets": [
+				"desktop",
+				"mobile"
+			]
+		},
+		"ext.dismissableSiteNotice.styles": {
+			"styles": "ext.dismissableSiteNotice.css",
 			"targets": [
 				"desktop",
 				"mobile"
