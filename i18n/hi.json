@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kaustubh"
+			"Kaustubh",
+			"Sfic"
 		]
 	},
 	"sitenotice_close": "हटायें",
+	"sitenotice_close-brackets": "[$1]",
 	"sitenotice-desc": "सदस्योंको साईटनोटिस हटाने की अनुमति देता हैं"
 }
