@@ -25,15 +25,15 @@ class DismissableSiteNoticeHooks {
 			$out->addModules( 'ext.dismissableSiteNotice' );
 			$out->addJsConfigVars( 'wgSiteNoticeId', "$major.$minor" );
 
-			$notice = Html::rawElement( 'div', array( 'class' => 'mw-dismissable-notice' ),
-				Html::rawElement( 'div', array( 'class' => 'mw-dismissable-notice-close' ),
+			$notice = Html::rawElement( 'div', [ 'class' => 'mw-dismissable-notice' ],
+				Html::rawElement( 'div', [ 'class' => 'mw-dismissable-notice-close' ],
 					$skin->msg( 'sitenotice_close-brackets' )
 						->rawParams(
-							Html::element( 'a', array( 'href' => '#' ), $skin->msg( 'sitenotice_close' )->text() )
+							Html::element( 'a', [ 'href' => '#' ], $skin->msg( 'sitenotice_close' )->text() )
 						)
 						->escaped()
 				) .
-				Html::rawElement( 'div', array( 'class' => 'mw-dismissable-notice-body' ), $notice )
+				Html::rawElement( 'div', [ 'class' => 'mw-dismissable-notice-body' ], $notice )
 			);
 		}
 
