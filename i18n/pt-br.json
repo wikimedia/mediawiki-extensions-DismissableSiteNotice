@@ -4,10 +4,11 @@
 			"Eduardo.mps",
 			"Jesielt",
 			"555",
-			"Felipe L. Ewald"
+			"Felipe L. Ewald",
+			"Opraco"
 		]
 	},
-	"sitenotice_close": "ignorar",
+	"sitenotice_close": "ocultar",
 	"sitenotice_close-brackets": "[$1]",
 	"sitenotice-desc": "Permite que os usuários ocultem o banner de avisos"
 }

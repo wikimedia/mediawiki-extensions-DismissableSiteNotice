@@ -3,9 +3,10 @@
 		"authors": [
 			"Hamilton Abreu",
 			"Malafaya",
-			"Athena in Wonderland"
+			"Athena in Wonderland",
+			"Opraco"
 		]
 	},
-	"sitenotice_close": "ignorar",
+	"sitenotice_close": "ocultar",
 	"sitenotice-desc": "Permite que os utilizadores fechem a notificação do sítio"
 }
