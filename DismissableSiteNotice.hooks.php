@@ -6,6 +6,7 @@ class DismissableSiteNoticeHooks {
 	 * @param string &$notice
 	 * @param Skin $skin
 	 * @return bool true
+	 * @suppress SecurityCheck-DoubleEscaped
 	 */
 	public static function onSiteNoticeAfter( &$notice, $skin ) {
 		global $wgMajorSiteNoticeID, $wgDismissableSiteNoticeForAnons;
