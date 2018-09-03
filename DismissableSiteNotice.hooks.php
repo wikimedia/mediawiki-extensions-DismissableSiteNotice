@@ -48,7 +48,7 @@ class DismissableSiteNoticeHooks {
 				Html::inlineScript(
 					'(function(){' .
 					'var node=document.getElementById("mw-dismissablenotice-anonplace");' .
-					'if(node){'.
+					'if(node){' .
 					// Replace placeholder with parsed HTML from $notice.
 					// Setting outerHTML is supported in all Grade C browsers
 					// and gracefully fallsback to just setting a property.
