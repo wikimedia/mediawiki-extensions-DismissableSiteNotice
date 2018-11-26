@@ -1,4 +1,4 @@
-( function ( mw, $ ) {
+( function () {
 
 	var cookieName = 'dismissSiteNotice',
 		siteNoticeId = mw.config.get( 'wgSiteNoticeId' );
@@ -21,14 +21,14 @@
 		$( '.mw-dismissable-notice-close' )
 			.css( 'visibility', 'visible' )
 			.find( 'a' )
-				.click( function ( e ) {
-					e.preventDefault();
-					$( this ).closest( '.mw-dismissable-notice' ).hide();
-					$.cookie( cookieName, siteNoticeId, {
-						expires: 30,
-						path: '/'
-					} );
+			.click( function ( e ) {
+				e.preventDefault();
+				$( this ).closest( '.mw-dismissable-notice' ).hide();
+				$.cookie( cookieName, siteNoticeId, {
+					expires: 30,
+					path: '/'
 				} );
+			} );
 	} );
 
-}( mediaWiki, jQuery ) );
+}() );
