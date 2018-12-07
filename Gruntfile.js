@@ -18,14 +18,16 @@ module.exports = function ( grunt ) {
 		stylelint: {
 			all: [
 				'**/*.css',
-				'!node_modules/**'
+				'!node_modules/**',
+				'!vendor/**'
 			]
 		},
 		banana: conf.MessagesDirs,
 		jsonlint: {
 			all: [
 				'**/*.json',
-				'!node_modules/**'
+				'!node_modules/**',
+				'!vendor/**'
 			]
 		}
 	} );
