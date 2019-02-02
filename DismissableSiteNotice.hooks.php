@@ -5,14 +5,13 @@ class DismissableSiteNoticeHooks {
 	/**
 	 * @param string &$notice
 	 * @param Skin $skin
-	 * @return bool true
 	 * @suppress SecurityCheck-DoubleEscaped
 	 */
 	public static function onSiteNoticeAfter( &$notice, $skin ) {
 		global $wgMajorSiteNoticeID, $wgDismissableSiteNoticeForAnons;
 
 		if ( !$notice ) {
-			return true;
+			return;
 		}
 
 		// Dismissal for anons is configurable
@@ -66,7 +65,5 @@ class DismissableSiteNoticeHooks {
 				);
 			$notice = $jsWrapped;
 		}
-
-		return true;
 	}
 }
