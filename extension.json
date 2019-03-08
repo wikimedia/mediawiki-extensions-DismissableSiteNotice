@@ -49,7 +49,7 @@
 		"remoteExtPath": "DismissableSiteNotice/modules"
 	},
 	"AutoloadClasses": {
-		"DismissableSiteNoticeHooks": "DismissableSiteNotice.hooks.php"
+		"DismissableSiteNoticeHooks": "includes/DismissableSiteNoticeHooks.php"
 	},
 	"manifest_version": 1
 }
