@@ -18,6 +18,7 @@
 
 	// ... and enable the dismiss button.
 	$( function () {
+		// eslint-disable-next-line no-jquery/no-global-selector
 		$( '.mw-dismissable-notice-close' )
 			.css( 'visibility', 'visible' )
 			.find( 'a' )
