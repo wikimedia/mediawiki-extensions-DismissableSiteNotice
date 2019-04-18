@@ -11,7 +11,7 @@
  * @author Kevin Israel
  * @author Dror S.
  * @license GPL-2.0-or-later
- * @link http://www.mediawiki.org/wiki/Extension:DismissableSiteNotice Documentation
+ * @link https://www.mediawiki.org/wiki/Extension:DismissableSiteNotice Documentation
  */
 
 if ( function_exists( 'wfLoadExtension' ) ) {
