@@ -4,9 +4,10 @@
 			"Milicevic01",
 			"Millosh",
 			"Rancher",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"BadDog"
 		]
 	},
-	"sitenotice_close": "сакриј",
-	"sitenotice-desc": "Омогућава корисницима да искључе обавештење на сајту"
+	"sitenotice_close": "одбаци",
+	"sitenotice-desc": "Омогућава корисницима да затворе обавештење сајта"
 }
