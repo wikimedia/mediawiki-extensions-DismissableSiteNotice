@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Srdjan m"
+			"Srdjan m",
+			"Vlad5250"
 		]
 	},
-	"sitenotice_close": "zatvori"
+	"sitenotice_close": "zatvori",
+	"sitenotice-desc": "Omogućuje korisnicima da zatvore obavještenje na glavnoj stranici"
 }
