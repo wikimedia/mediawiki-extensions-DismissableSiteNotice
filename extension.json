@@ -15,9 +15,7 @@
 		"DismissableSiteNoticeForAnons": false
 	},
 	"Hooks": {
-		"SiteNoticeAfter": [
-			"DismissableSiteNoticeHooks::onSiteNoticeAfter"
-		]
+		"SiteNoticeAfter": "DismissableSiteNoticeHooks::onSiteNoticeAfter"
 	},
 	"MessagesDirs": {
 		"DismissableSiteNotice": [
