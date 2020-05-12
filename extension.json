@@ -11,8 +11,12 @@
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
 	"config": {
-		"MajorSiteNoticeID": 1,
-		"DismissableSiteNoticeForAnons": false
+		"MajorSiteNoticeID": {
+			"value": 1
+		},
+		"DismissableSiteNoticeForAnons": {
+			"value": false
+		}
 	},
 	"Hooks": {
 		"SiteNoticeAfter": "DismissableSiteNoticeHooks::onSiteNoticeAfter"
@@ -49,5 +53,8 @@
 	"AutoloadClasses": {
 		"DismissableSiteNoticeHooks": "includes/DismissableSiteNoticeHooks.php"
 	},
-	"manifest_version": 1
+	"manifest_version": 2,
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	}
 }
