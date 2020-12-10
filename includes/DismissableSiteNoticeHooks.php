@@ -9,6 +9,12 @@ class DismissableSiteNoticeHooks {
 	 */
 	public static function onSiteNoticeAfter( &$notice, $skin ) {
 		global $wgMajorSiteNoticeID, $wgDismissableSiteNoticeForAnons;
+		if ( method_exists( $skin, 'getVersion' ) ) {
+			// does the skin support versioning and if so does it provide dismissable site notices?
+			if ( $skin->getVersion() === 2 ) {
+				return;
+			}
+		}
 
 		if ( !$notice ) {
 			return;
