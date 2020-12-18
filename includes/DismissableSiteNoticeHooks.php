@@ -15,7 +15,7 @@ class DismissableSiteNoticeHooks {
 		}
 
 		// Dismissal for anons is configurable
-		if ( $wgDismissableSiteNoticeForAnons || $skin->getUser()->isLoggedIn() ) {
+		if ( $wgDismissableSiteNoticeForAnons || $skin->getUser()->isRegistered() ) {
 			// Cookie value consists of two parts
 			$major = (int)$wgMajorSiteNoticeID;
 			$minor = (int)$skin->msg( 'sitenotice_id' )->inContentLanguage()->text();
