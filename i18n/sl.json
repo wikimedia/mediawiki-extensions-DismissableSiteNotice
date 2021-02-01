@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
-	"sitenotice_close": "skrij",
+	"sitenotice_close": "opusti",
 	"sitenotice-desc": "Dovoli uporabnikom skriti obvestilo strani"
 }
