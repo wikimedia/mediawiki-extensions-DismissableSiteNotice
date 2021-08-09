@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahonc"
+			"Ahonc",
+			"DDPAT"
 		]
 	},
 	"sitenotice_close": "приховати",
+	"sitenotice_close-brackets": "[$1]",
 	"sitenotice-desc": "Дозволяє користувачам приховувати повідомлення сайту"
 }
