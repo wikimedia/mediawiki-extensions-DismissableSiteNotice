@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Dnik",
-			"SpeedyGonsales"
+			"SpeedyGonsales",
+			"Bugoslav"
 		]
 	},
 	"sitenotice_close": "sakrij",
-	"sitenotice-desc": "Dopušta korisnicima zatvaranje obavijesti"
+	"sitenotice-desc": "Omogućava suradnicama/suradnicima zatvaranje obavjesnice"
 }

@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Joseph",
-			"Karduelis"
+			"Karduelis",
+			"MuratTheTurkish"
 		]
 	},
-	"sitenotice_close": "Kapat",
-	"sitenotice-desc": "Kullanıcıların sitebildirimini kapatmasına izin verir"
+	"sitenotice_close": "kapat",
+	"sitenotice-desc": "Kullanıcıların site bildirimini kapatmasına izin verir"
 }
