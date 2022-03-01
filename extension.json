@@ -19,7 +19,7 @@
 		}
 	},
 	"Hooks": {
-		"SiteNoticeAfter": "DismissableSiteNoticeHooks::onSiteNoticeAfter"
+		"SiteNoticeAfter": "MediaWiki\\Extension\\DismissableSiteNotice\\Hooks::onSiteNoticeAfter"
 	},
 	"MessagesDirs": {
 		"DismissableSiteNotice": [
@@ -50,8 +50,8 @@
 		"localBasePath": "modules",
 		"remoteExtPath": "DismissableSiteNotice/modules"
 	},
-	"AutoloadClasses": {
-		"DismissableSiteNoticeHooks": "includes/DismissableSiteNoticeHooks.php"
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\DismissableSiteNotice\\": "includes/"
 	},
 	"manifest_version": 2,
 	"requires": {

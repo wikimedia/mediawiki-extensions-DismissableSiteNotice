@@ -1,6 +1,12 @@
 <?php
 
-class DismissableSiteNoticeHooks {
+namespace MediaWiki\Extension\DismissableSiteNotice;
+
+use Html;
+use Skin;
+use Xml;
+
+class Hooks {
 
 	/**
 	 * @param string &$notice
