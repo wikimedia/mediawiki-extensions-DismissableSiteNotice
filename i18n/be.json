@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Mechanizatar",
+			"Plaga med",
 			"Yury Tarasievich"
 		]
 	},
 	"sitenotice_close": "зняць",
-	"sitenotice-desc": "Дазваляе зачыніць апавяшчэнні"
+	"sitenotice-desc": "Дазваляе карыстальнікам закрываць заўвагі на сайце"
 }
