@@ -73,7 +73,8 @@ class Hooks {
 					// - Replace node with wrapper's child nodes.
 					'node.outerHTML=' . Xml::encodeJsVar( $notice ) . ';' .
 					'}' .
-					'}());'
+					'}());',
+					$skin->getOutput()->getCSP()->getNonce()
 				);
 			$notice = $jsWrapped;
 		}
