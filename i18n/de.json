@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Brettchenweber",
 			"Geitost",
 			"Kghbln",
 			"Metalhead64",
@@ -10,5 +11,5 @@
 	},
 	"sitenotice_close": "schließen",
 	"sitenotice_close-brackets": "[$1]",
-	"sitenotice-desc": "Ermöglicht es Benutzern die wikiweiten Nachrichteneinblendungen zu schließen"
+	"sitenotice-desc": "Ermöglicht es Benutzern, die wikiweiten Nachrichteneinblendungen zu schließen"
 }
