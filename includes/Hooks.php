@@ -54,6 +54,9 @@ class Hooks {
 		}
 
 		if ( $skin->getUser()->isAnon() ) {
+			// If there's no nonce (false), pass null to Html::inlineScript
+			$nonce = $skin->getOutput()->getCSP()->getNonce() ?: null;
+
 			// Hide the sitenotice from search engines (see bug T11209 comment 4)
 			// NOTE: Is this actually effective?
 			// NOTE: Avoid document.write (T125323)
@@ -74,7 +77,7 @@ class Hooks {
 					'node.outerHTML=' . Xml::encodeJsVar( $notice ) . ';' .
 					'}' .
 					'}());',
-					$skin->getOutput()->getCSP()->getNonce()
+					$nonce
 				);
 			$notice = $jsWrapped;
 		}
