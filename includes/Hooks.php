@@ -3,17 +3,18 @@
 namespace MediaWiki\Extension\DismissableSiteNotice;
 
 use Html;
+use MediaWiki\Hook\SiteNoticeAfterHook;
 use Skin;
 use Xml;
 
-class Hooks {
+class Hooks implements SiteNoticeAfterHook {
 
 	/**
 	 * @param string &$notice
 	 * @param Skin $skin
 	 * @suppress SecurityCheck-DoubleEscaped
 	 */
-	public static function onSiteNoticeAfter( &$notice, $skin ) {
+	public function onSiteNoticeAfter( &$notice, $skin ) {
 		global $wgMajorSiteNoticeID, $wgDismissableSiteNoticeForAnons;
 		if ( method_exists( $skin, 'getVersion' ) ) {
 			// does the skin support versioning and if so does it provide dismissable site notices?

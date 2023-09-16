@@ -19,7 +19,12 @@
 		}
 	},
 	"Hooks": {
-		"SiteNoticeAfter": "MediaWiki\\Extension\\DismissableSiteNotice\\Hooks::onSiteNoticeAfter"
+		"SiteNoticeAfter": "main"
+	},
+	"HookHandlers": {
+		"main": {
+			"class": "MediaWiki\\Extension\\DismissableSiteNotice\\Hooks"
+		}
 	},
 	"MessagesDirs": {
 		"DismissableSiteNotice": [
