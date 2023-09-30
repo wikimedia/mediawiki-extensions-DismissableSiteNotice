@@ -4,6 +4,7 @@ namespace MediaWiki\Extension\DismissableSiteNotice;
 
 use Html;
 use MediaWiki\Hook\SiteNoticeAfterHook;
+use MediaWiki\Parser\Sanitizer;
 use Skin;
 use Xml;
 
@@ -23,7 +24,7 @@ class Hooks implements SiteNoticeAfterHook {
 			}
 		}
 
-		if ( !$notice ) {
+		if ( trim( Sanitizer::removeHTMLcomments( $notice ) ) === '' ) {
 			return;
 		}
 
