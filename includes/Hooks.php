@@ -2,8 +2,8 @@
 
 namespace MediaWiki\Extension\DismissableSiteNotice;
 
-use Html;
 use MediaWiki\Hook\SiteNoticeAfterHook;
+use MediaWiki\Html\Html;
 use MediaWiki\Parser\Sanitizer;
 use Skin;
 use Xml;
