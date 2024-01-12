@@ -37,18 +37,10 @@
 			"dependencies": [
 				"mediawiki.cookie",
 				"mediawiki.util"
-			],
-			"targets": [
-				"desktop",
-				"mobile"
 			]
 		},
 		"ext.dismissableSiteNotice.styles": {
-			"styles": "ext.dismissableSiteNotice.css",
-			"targets": [
-				"desktop",
-				"mobile"
-			]
+			"styles": "ext.dismissableSiteNotice.css"
 		}
 	},
 	"ResourceFileModulePaths": {
