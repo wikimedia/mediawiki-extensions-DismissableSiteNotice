@@ -1,5 +1,6 @@
 {
 	"name": "DismissableSiteNotice",
+	"namemsg": "sitenotice-extensionname",
 	"version": "1.0.1",
 	"author": [
 		"Brion Vibber",
