@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Anakmalaysia",
-			"Aviator"
+			"Aviator",
+			"Hakimi97"
 		]
 	},
-	"sitenotice_close": "singkir",
+	"sitenotice_close": "abaikan",
 	"sitenotice_close-brackets": "[$1]",
 	"sitenotice-desc": "Membolehkan pengguna menutup notis"
 }
