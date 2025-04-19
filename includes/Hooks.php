@@ -5,7 +5,7 @@ namespace MediaWiki\Extension\DismissableSiteNotice;
 use MediaWiki\Hook\SiteNoticeAfterHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Parser\Sanitizer;
-use Skin;
+use MediaWiki\Skin\Skin;
 
 class Hooks implements SiteNoticeAfterHook {
 
