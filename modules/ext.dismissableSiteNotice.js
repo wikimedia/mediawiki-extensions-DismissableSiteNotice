@@ -1,6 +1,6 @@
 ( function () {
 
-	var cookieName = 'dismissSiteNotice',
+	const cookieName = 'dismissSiteNotice',
 		siteNoticeId = mw.config.get( 'wgSiteNoticeId' );
 
 	// If no siteNoticeId is set, exit.
@@ -17,7 +17,7 @@
 	mw.util.addCSS( '.client-js .mw-dismissable-notice { display: block; }' );
 
 	// ... and enable the dismiss button.
-	$( function () {
+	$( () => {
 		// eslint-disable-next-line no-jquery/no-global-selector
 		$( '.mw-dismissable-notice-close' )
 			.css( 'visibility', 'visible' )
