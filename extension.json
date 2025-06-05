@@ -41,7 +41,7 @@
 			]
 		},
 		"ext.dismissableSiteNotice.styles": {
-			"styles": "ext.dismissableSiteNotice.css"
+			"styles": "ext.dismissableSiteNotice.less"
 		}
 	},
 	"ResourceFileModulePaths": {
