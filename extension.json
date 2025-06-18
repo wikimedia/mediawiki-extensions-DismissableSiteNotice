@@ -53,6 +53,6 @@
 	},
 	"manifest_version": 2,
 	"requires": {
-		"MediaWiki": ">= 1.44"
+		"MediaWiki": ">= 1.45"
 	}
 }
