@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aca",
 			"Winston Sung"
 		]
 	},
 	"sitenotice_close": "zatvori",
-	"sitenotice-desc": "Omogućuje korisnicima da zatvore obavještenje na glavnoj stranici"
+	"sitenotice-desc": "Omogućuje korisnicima da zatvore projektnu obavijest"
 }
