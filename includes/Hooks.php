@@ -2,9 +2,9 @@
 
 namespace MediaWiki\Extension\DismissableSiteNotice;
 
-use MediaWiki\Hook\SiteNoticeAfterHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Parser\Sanitizer;
+use MediaWiki\Skin\Hook\SiteNoticeAfterHook;
 use MediaWiki\Skin\Skin;
 
 class Hooks implements SiteNoticeAfterHook {
