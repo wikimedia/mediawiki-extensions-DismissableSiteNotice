@@ -1,4 +1,14 @@
 {
+	"name": "mediawiki/dismissable-site-notice",
+	"type": "mediawiki-extension",
+	"description": "Allows users to close the sitenotice",
+	"keywords": [
+		"wiki",
+		"MediaWiki",
+		"extension"
+	],
+	"homepage": "https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:DismissableSiteNotice",
+	"license": "GPL-2.0-or-later",
 	"require-dev": {
 		"mediawiki/mediawiki-codesniffer": "52.0.0",
 		"mediawiki/mediawiki-phan-config": "0.20.0",
